@@ -15,6 +15,13 @@ for json_file in json_files:
         with open(os.path.join("jsons", json_file), "r") as f:
             result = json.load(f)
 
+        output_path = f"jsons/{title}_chunks.json"
+        
+        
+        if os.path.exists(output_path):
+            print(f"{title} — chunks already exist")
+            continue
+
 
         for segment in result["segments"]:
             chunk = {
