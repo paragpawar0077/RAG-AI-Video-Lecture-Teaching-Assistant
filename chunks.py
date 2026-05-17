@@ -26,7 +26,7 @@ for json_file in json_files:
             }
             all_chunks.append(chunk)
 
-            print(f"Chunked: {title} -> {len(result['segments'])} chunks")
+print(f"Chunked: {title} -> {len(result['segments'])} chunks")
 
 os.makedirs("chunks", exist_ok=True)
 
