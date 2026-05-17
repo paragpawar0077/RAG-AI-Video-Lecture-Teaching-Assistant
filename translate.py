@@ -11,6 +11,12 @@ audio_files = os.listdir("audios")
 # Loop through each audio file
 for audio_file in audio_files:
 
+    if '_' in audio_file:
+        output_path = f"jsons/{audio_file.replace('.mp3', '.json')}"
+        if os.path.exists(output_path):
+            print(f"{audio_file} — transcript already exists")
+            continue
+
     audio_path = os.path.join("audios", audio_file)
 
     print(f"Transcribing: {audio_file}...")
