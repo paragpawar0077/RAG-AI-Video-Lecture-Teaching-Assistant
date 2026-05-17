@@ -1,27 +1,37 @@
-import whisper
+# step 3 - chunk the transcripts into smaller pieces for better searchability and context retrieval
+
 import json
-import os
+import os 
 
-model = whisper.load_model("large-v2")
+json_files = os.listdir("jsons")
 
-audios = os.listdir("audios")
+all_chunks = []
 
-for audio in audios: 
-    if("_" in audio):
-        number = audio.split("_")[0]
-        title = audio.split("_")[1][:-4]
-        print(number, title)
-        result = model.transcribe(audio = f"audios/{audio}", 
-        # result = model.transcribe(audio = f"audios/sample.mp3", +-+
-                              language="hi",
-                              task="translate",
-                              word_timestamps=False )
-        
-        chunks = []
+for json_file in json_files:
+    if "_" in json_file:
+        number = json_file.split("_")[0]
+        title = json_file.split("_")[1].replace(".mp3.json", "")
+
+        with open(os.path.join("jsons", json_file), "r") as f:
+            result = json.load(f)
+
+
         for segment in result["segments"]:
-            chunks.append({"number": number, "title":title, "start": segment["start"], "end": segment["end"], "text": segment["text"]})
-        
-        chunks_with_metadata = {"chunks": chunks, "text": result["text"]}
+            chunk = {
+                "number": number,
+                "title": title,
+                "start": segment["start"],
+                "end": segment["end"],
+                "text": segment["text"]
+            }
+            all_chunks.append(chunk)
 
-        with open(f"jsons/{audio}.json", "w") as f:
-            json.dump(chunks_with_metadata,f)
+            print(f"Chunked: {title} -> {len(result['segments'])} chunks")
+
+os.makedirs("chunks", exist_ok=True)
+
+output_filename = f"chunks/{number}_{title}_chunks.json"
+with open(output_filename, "w") as f:
+    json.dump({"chunks": all_chunks}, f, indent=2)
+
+print(f"Saved → {output_filename} ({len(all_chunks)} chunks)") 
