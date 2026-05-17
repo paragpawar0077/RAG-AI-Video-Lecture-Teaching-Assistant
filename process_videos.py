@@ -10,6 +10,11 @@ for index, file in enumerate(files, start=1):
     file_name = os.path.splitext(file)[0]        # Clean name without .mp4
     tutorial_number = str(index).zfill(2)        # Auto: 01, 02, 03
 
+    output_path = f"audios/{tutorial_number}_{file_name}.mp3"
+
+    if os.path.exists(output_path):
+        print(f"{file_name} — audio already exists")
+        continue
 
     os.makedirs("audios", exist_ok=True)
 
