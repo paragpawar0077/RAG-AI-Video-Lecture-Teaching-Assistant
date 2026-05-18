@@ -23,11 +23,11 @@ for audio_file in audio_files:
 
     result = model.transcribe(audio_path, language="hi", task="translate")
 
-    # Save the transcript as a JSON file in jsons/ folder
+    # Save the transcript as a JSON file in transcripts/ folder
     # so chunks.py can pick it up in the next step
-    os.makedirs("jsons", exist_ok=True)
+    os.makedirs("transcripts", exist_ok=True)
 
-    output_path = os.path.join("jsons", f"{os.path.splitext(audio_file)[0]}.json")
+    output_path = os.path.join("transcripts", f"{os.path.splitext(audio_file)[0]}.json")
 
     with open(output_path, "w") as f:
         json.dump(result, f, indent=2)
