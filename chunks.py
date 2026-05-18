@@ -12,12 +12,12 @@ for json_file in json_files:
     if "_" in json_file:
         file_name = json_file.rsplit(".", 1)[0]  
         number = json_file.split("_")[0]
-        title = json_file.split("_")[1]
+        title = file_name.split("_")[1]
 
         with open(os.path.join("transcripts", json_file), "r") as f:
             result = json.load(f)
 
-        output_path = f"chunks/{title}_chunks.json"
+        output_path = f"chunks/{number}_{title}_chunks.json"
         
         
         if os.path.exists(output_path):
@@ -35,12 +35,12 @@ for json_file in json_files:
             }
             all_chunks.append(chunk)
 
-    print(f"Chunked: {title} -> {len(result['segments'])} chunks")
+        print(f"Chunked: {title} -> {len(result['segments'])} chunks")
 
-    os.makedirs("chunks", exist_ok=True)
+        os.makedirs("chunks", exist_ok=True)
 
-    output_filename = f"chunks/{number}_{title}_chunks.json"
-    with open(output_filename, "w") as f:
-        json.dump({"chunks": all_chunks}, f, indent=2)
+        output_filename = f"chunks/{number}_{title}_chunks.json"
+        with open(output_filename, "w") as f:
+            json.dump({"chunks": all_chunks}, f, indent=2)
 
-    print(f"Saved → {output_filename} ({len(all_chunks)} chunks)") 
+        print(f"Saved → {output_filename} ({len(all_chunks)} chunks)") 
