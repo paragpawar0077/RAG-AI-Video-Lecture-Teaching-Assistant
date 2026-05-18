@@ -12,7 +12,7 @@ for json_file in json_files:
     if "_" in json_file:
         file_name = json_file.rsplit(".", 1)[0]  
         number = json_file.split("_")[0]
-        title = file_name.split("_")[1]
+        title = file_name.split("_", 1)[1]
 
         with open(os.path.join("transcripts", json_file), "r") as f:
             result = json.load(f)
