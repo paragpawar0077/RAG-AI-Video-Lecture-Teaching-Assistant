@@ -12,7 +12,7 @@ audio_files = os.listdir("audios")
 for audio_file in audio_files:
 
     if '_' in audio_file:
-        output_path = f"jsons/{audio_file.replace('.mp3', '.json')}"
+        output_path = f"transcripts/{audio_file.replace('.mp3', '.json')}"
         if os.path.exists(output_path):
             print(f"{audio_file} — transcript already exists")
             continue
