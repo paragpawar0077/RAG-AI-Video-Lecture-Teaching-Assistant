@@ -15,7 +15,7 @@ for json_file in json_files:
 
     title = json_file.replace("_chunks.json", "")  # Extract title from filename
 
-    existing = collection.get(where={"title": title})
+    existing = collection.get(ids=[f"{title}_0"])
     if len(existing["ids"])>0:
         print(f"{title} already exists in the collection, skipping.")
         continue
