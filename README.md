@@ -18,7 +18,7 @@ chunks.py
 [Vector Store]
       ↓ Chunks stored as searchable embeddings
 [RAG Chat App]
-      ↓ User asks question → Retrieve relevant chunks → Claude answers
+      ↓ User asks question → Retrieve relevant chunks →  answeGROQrs
 ```
 
 ---
@@ -151,7 +151,7 @@ python -c "import torch; print(torch.cuda.is_available())"
 
 ##  Author
 
-**Your Name**
+**Parag Pawar**
 
-- GitHub: https://github.com/YOUR_USERNAME
-- LinkedIn: https://linkedin.com/in/YOUR_USERNAME
+- GitHub: (https://github.com/paragpawar0077)
+- LinkedIn: (https://www.linkedin.com/in/parag-pawar-5383693a5/)
