@@ -1,406 +1,406 @@
 {
   "chunks": [
     {
-      "number": "01",
+      "number": "02",
       "title": "Machine Learning In 5 Minutes \uff5c Machine Learning Introduction \uff5cWhat Is Machine Learning \uff5cSimplilearn [-DEL6SVRPw0]",
       "start": 0.0,
       "end": 3.0,
       "text": " Imagine a regular day in your life."
     },
     {
-      "number": "01",
+      "number": "02",
       "title": "Machine Learning In 5 Minutes \uff5c Machine Learning Introduction \uff5cWhat Is Machine Learning \uff5cSimplilearn [-DEL6SVRPw0]",
       "start": 3.0,
       "end": 9.0,
       "text": " You wake up in the morning to the automatic curtains and lighting in your room controlled by AI."
     },
     {
-      "number": "01",
+      "number": "02",
       "title": "Machine Learning In 5 Minutes \uff5c Machine Learning Introduction \uff5cWhat Is Machine Learning \uff5cSimplilearn [-DEL6SVRPw0]",
       "start": 9.0,
       "end": 15.0,
       "text": " Your alarm rings based on your schedule, in your calendar, and the time you slept at."
     },
     {
-      "number": "01",
+      "number": "02",
       "title": "Machine Learning In 5 Minutes \uff5c Machine Learning Introduction \uff5cWhat Is Machine Learning \uff5cSimplilearn [-DEL6SVRPw0]",
       "start": 15.0,
       "end": 19.0,
       "text": " All through the night, your AC was adjusting to suit your body temperature."
     },
     {
-      "number": "01",
+      "number": "02",
       "title": "Machine Learning In 5 Minutes \uff5c Machine Learning Introduction \uff5cWhat Is Machine Learning \uff5cSimplilearn [-DEL6SVRPw0]",
       "start": 19.0,
       "end": 25.0,
       "text": " Now that you are up, every single activity around you is driven through machine learning."
     },
     {
-      "number": "01",
+      "number": "02",
       "title": "Machine Learning In 5 Minutes \uff5c Machine Learning Introduction \uff5cWhat Is Machine Learning \uff5cSimplilearn [-DEL6SVRPw0]",
       "start": 25.0,
       "end": 29.0,
       "text": " Your mobile phone has organized news for you based on your interests."
     },
     {
-      "number": "01",
+      "number": "02",
       "title": "Machine Learning In 5 Minutes \uff5c Machine Learning Introduction \uff5cWhat Is Machine Learning \uff5cSimplilearn [-DEL6SVRPw0]",
       "start": 29.0,
       "end": 33.0,
       "text": " This uses neighborhood-based algorithms along with naive base."
     },
     {
-      "number": "01",
+      "number": "02",
       "title": "Machine Learning In 5 Minutes \uff5c Machine Learning Introduction \uff5cWhat Is Machine Learning \uff5cSimplilearn [-DEL6SVRPw0]",
       "start": 33.0,
       "end": 40.0,
       "text": " Finally, the cab that you booked online uses algorithms to make the lowest cost trip fulfillment for the company."
     },
     {
-      "number": "01",
+      "number": "02",
       "title": "Machine Learning In 5 Minutes \uff5c Machine Learning Introduction \uff5cWhat Is Machine Learning \uff5cSimplilearn [-DEL6SVRPw0]",
       "start": 40.0,
       "end": 48.0,
       "text": " Based on this, the cab company say Uber decides which among the hundreds of available cabs should be assigned to your trip"
     },
     {
-      "number": "01",
+      "number": "02",
       "title": "Machine Learning In 5 Minutes \uff5c Machine Learning Introduction \uff5cWhat Is Machine Learning \uff5cSimplilearn [-DEL6SVRPw0]",
       "start": 48.0,
       "end": 51.0,
       "text": " so that the cost is minimized for the company."
     },
     {
-      "number": "01",
+      "number": "02",
       "title": "Machine Learning In 5 Minutes \uff5c Machine Learning Introduction \uff5cWhat Is Machine Learning \uff5cSimplilearn [-DEL6SVRPw0]",
       "start": 51.0,
       "end": 55.0,
       "text": " Machine learning has engulfed every part of our lives."
     },
     {
-      "number": "01",
+      "number": "02",
       "title": "Machine Learning In 5 Minutes \uff5c Machine Learning Introduction \uff5cWhat Is Machine Learning \uff5cSimplilearn [-DEL6SVRPw0]",
       "start": 55.0,
       "end": 59.0,
       "text": " Machine learning uses algorithms to mimic human learnings in machines."
     },
     {
-      "number": "01",
+      "number": "02",
       "title": "Machine Learning In 5 Minutes \uff5c Machine Learning Introduction \uff5cWhat Is Machine Learning \uff5cSimplilearn [-DEL6SVRPw0]",
       "start": 59.0,
       "end": 63.0,
       "text": " It is a subset of artificial intelligence."
     },
     {
-      "number": "01",
+      "number": "02",
       "title": "Machine Learning In 5 Minutes \uff5c Machine Learning Introduction \uff5cWhat Is Machine Learning \uff5cSimplilearn [-DEL6SVRPw0]",
       "start": 63.0,
       "end": 67.0,
       "text": " To simplify this idea, let us take up a small story."
     },
     {
-      "number": "01",
+      "number": "02",
       "title": "Machine Learning In 5 Minutes \uff5c Machine Learning Introduction \uff5cWhat Is Machine Learning \uff5cSimplilearn [-DEL6SVRPw0]",
       "start": 67.0,
       "end": 72.0,
       "text": " Imagine that you have photos of your favorite pets, Bruno and Kitty."
     },
     {
-      "number": "01",
+      "number": "02",
       "title": "Machine Learning In 5 Minutes \uff5c Machine Learning Introduction \uff5cWhat Is Machine Learning \uff5cSimplilearn [-DEL6SVRPw0]",
       "start": 72.0,
       "end": 77.0,
       "text": " Is there a way to explain to a machine how to distinguish a cat from a dog?"
     },
     {
-      "number": "01",
+      "number": "02",
       "title": "Machine Learning In 5 Minutes \uff5c Machine Learning Introduction \uff5cWhat Is Machine Learning \uff5cSimplilearn [-DEL6SVRPw0]",
       "start": 77.0,
       "end": 81.0,
       "text": " You can feed the machine with hundreds and thousands of photos of cats and dogs,"
     },
     {
-      "number": "01",
+      "number": "02",
       "title": "Machine Learning In 5 Minutes \uff5c Machine Learning Introduction \uff5cWhat Is Machine Learning \uff5cSimplilearn [-DEL6SVRPw0]",
       "start": 81.0,
       "end": 85.0,
       "text": " teaching the machine to build up a model based on these examples."
     },
     {
-      "number": "01",
+      "number": "02",
       "title": "Machine Learning In 5 Minutes \uff5c Machine Learning Introduction \uff5cWhat Is Machine Learning \uff5cSimplilearn [-DEL6SVRPw0]",
       "start": 85.0,
       "end": 88.0,
       "text": " This is what we term as supervised learning."
     },
     {
-      "number": "01",
+      "number": "02",
       "title": "Machine Learning In 5 Minutes \uff5c Machine Learning Introduction \uff5cWhat Is Machine Learning \uff5cSimplilearn [-DEL6SVRPw0]",
       "start": 88.0,
       "end": 92.0,
       "text": " We give the machine examples of each animal showing its features"
     },
     {
-      "number": "01",
+      "number": "02",
       "title": "Machine Learning In 5 Minutes \uff5c Machine Learning Introduction \uff5cWhat Is Machine Learning \uff5cSimplilearn [-DEL6SVRPw0]",
       "start": 92.0,
       "end": 97.0,
       "text": " and the machine learns how to differentiate between a dog and a cat."
     },
     {
-      "number": "01",
+      "number": "02",
       "title": "Machine Learning In 5 Minutes \uff5c Machine Learning Introduction \uff5cWhat Is Machine Learning \uff5cSimplilearn [-DEL6SVRPw0]",
       "start": 97.0,
       "end": 100.0,
       "text": " This way, it can recognize your Bruno and Kitty."
     },
     {
-      "number": "01",
+      "number": "02",
       "title": "Machine Learning In 5 Minutes \uff5c Machine Learning Introduction \uff5cWhat Is Machine Learning \uff5cSimplilearn [-DEL6SVRPw0]",
       "start": 100.0,
       "end": 105.0,
       "text": " Classification and regression are the two most popular methods and decision tree."
     },
     {
-      "number": "01",
+      "number": "02",
       "title": "Machine Learning In 5 Minutes \uff5c Machine Learning Introduction \uff5cWhat Is Machine Learning \uff5cSimplilearn [-DEL6SVRPw0]",
       "start": 105.0,
       "end": 112.0,
       "text": " Naive bays, linear regression and SVM are the most popular algorithms in supervised learning."
     },
     {
-      "number": "01",
+      "number": "02",
       "title": "Machine Learning In 5 Minutes \uff5c Machine Learning Introduction \uff5cWhat Is Machine Learning \uff5cSimplilearn [-DEL6SVRPw0]",
       "start": 112.0,
       "end": 117.0,
       "text": " In unsupervised learning, you don't really have a predetermined result in mind."
     },
     {
-      "number": "01",
+      "number": "02",
       "title": "Machine Learning In 5 Minutes \uff5c Machine Learning Introduction \uff5cWhat Is Machine Learning \uff5cSimplilearn [-DEL6SVRPw0]",
       "start": 117.0,
       "end": 120.0,
       "text": " Much like how a child explores the world on its own,"
     },
     {
-      "number": "01",
+      "number": "02",
       "title": "Machine Learning In 5 Minutes \uff5c Machine Learning Introduction \uff5cWhat Is Machine Learning \uff5cSimplilearn [-DEL6SVRPw0]",
       "start": 120.0,
       "end": 125.0,
       "text": " the machine tries to make sense of things from huge amounts of data."
     },
     {
-      "number": "01",
+      "number": "02",
       "title": "Machine Learning In 5 Minutes \uff5c Machine Learning Introduction \uff5cWhat Is Machine Learning \uff5cSimplilearn [-DEL6SVRPw0]",
       "start": 125.0,
       "end": 131.0,
       "text": " Given many photos of animals, the machine starts segregating them by color, size and shape."
     },
     {
-      "number": "01",
+      "number": "02",
       "title": "Machine Learning In 5 Minutes \uff5c Machine Learning Introduction \uff5cWhat Is Machine Learning \uff5cSimplilearn [-DEL6SVRPw0]",
       "start": 131.0,
       "end": 134.0,
       "text": " Such an approach is known as unsupervised learning."
     },
     {
-      "number": "01",
+      "number": "02",
       "title": "Machine Learning In 5 Minutes \uff5c Machine Learning Introduction \uff5cWhat Is Machine Learning \uff5cSimplilearn [-DEL6SVRPw0]",
       "start": 134.0,
       "end": 138.0,
       "text": " Clustering and association are the types of unsupervised learning,"
     },
     {
-      "number": "01",
+      "number": "02",
       "title": "Machine Learning In 5 Minutes \uff5c Machine Learning Introduction \uff5cWhat Is Machine Learning \uff5cSimplilearn [-DEL6SVRPw0]",
       "start": 138.0,
       "end": 144.0,
       "text": " covering algorithms such as K-means, hierarchical, a priori and genetic algorithms."
     },
     {
-      "number": "01",
+      "number": "02",
       "title": "Machine Learning In 5 Minutes \uff5c Machine Learning Introduction \uff5cWhat Is Machine Learning \uff5cSimplilearn [-DEL6SVRPw0]",
       "start": 144.0,
       "end": 148.0,
       "text": " Reinforcement learning is very similar to how children learn."
     },
     {
-      "number": "01",
+      "number": "02",
       "title": "Machine Learning In 5 Minutes \uff5c Machine Learning Introduction \uff5cWhat Is Machine Learning \uff5cSimplilearn [-DEL6SVRPw0]",
       "start": 148.0,
       "end": 154.0,
       "text": " When you were a child, you were rewarded for your good deeds and punished for making mistakes."
     },
     {
-      "number": "01",
+      "number": "02",
       "title": "Machine Learning In 5 Minutes \uff5c Machine Learning Introduction \uff5cWhat Is Machine Learning \uff5cSimplilearn [-DEL6SVRPw0]",
       "start": 154.0,
       "end": 157.0,
       "text": " This reinforced you to perform better than you were before."
     },
     {
-      "number": "01",
+      "number": "02",
       "title": "Machine Learning In 5 Minutes \uff5c Machine Learning Introduction \uff5cWhat Is Machine Learning \uff5cSimplilearn [-DEL6SVRPw0]",
       "start": 157.0,
       "end": 162.0,
       "text": " Similarly, users, just like parents, teach a machine where it made a mistake"
     },
     {
-      "number": "01",
+      "number": "02",
       "title": "Machine Learning In 5 Minutes \uff5c Machine Learning Introduction \uff5cWhat Is Machine Learning \uff5cSimplilearn [-DEL6SVRPw0]",
       "start": 162.0,
       "end": 164.0,
       "text": " and where it was right."
     },
     {
-      "number": "01",
+      "number": "02",
       "title": "Machine Learning In 5 Minutes \uff5c Machine Learning Introduction \uff5cWhat Is Machine Learning \uff5cSimplilearn [-DEL6SVRPw0]",
       "start": 164.0,
       "end": 171.0,
       "text": " Thus, the machine develops intelligence and makes better decisions in the future because of this reinforcement."
     },
     {
-      "number": "01",
+      "number": "02",
       "title": "Machine Learning In 5 Minutes \uff5c Machine Learning Introduction \uff5cWhat Is Machine Learning \uff5cSimplilearn [-DEL6SVRPw0]",
       "start": 171.0,
       "end": 175.0,
       "text": " Google's AI can now design better AI than humans could."
     },
     {
-      "number": "01",
+      "number": "02",
       "title": "Machine Learning In 5 Minutes \uff5c Machine Learning Introduction \uff5cWhat Is Machine Learning \uff5cSimplilearn [-DEL6SVRPw0]",
       "start": 175.0,
       "end": 177.0,
       "text": " Isn't this mind-blowing?"
     },
     {
-      "number": "01",
+      "number": "02",
       "title": "Machine Learning In 5 Minutes \uff5c Machine Learning Introduction \uff5cWhat Is Machine Learning \uff5cSimplilearn [-DEL6SVRPw0]",
       "start": 177.0,
       "end": 183.0,
       "text": " It is like we are playing God where our creation is creating better creations."
     },
     {
-      "number": "01",
+      "number": "02",
       "title": "Machine Learning In 5 Minutes \uff5c Machine Learning Introduction \uff5cWhat Is Machine Learning \uff5cSimplilearn [-DEL6SVRPw0]",
       "start": 183.0,
       "end": 187.0,
       "text": " The AI algorithm, developed by Chinese retail giant Alibaba,"
     },
     {
-      "number": "01",
+      "number": "02",
       "title": "Machine Learning In 5 Minutes \uff5c Machine Learning Introduction \uff5cWhat Is Machine Learning \uff5cSimplilearn [-DEL6SVRPw0]",
       "start": 187.0,
       "end": 191.0,
       "text": " outscored humans in the Stanford question answering data set,"
     },
     {
-      "number": "01",
+      "number": "02",
       "title": "Machine Learning In 5 Minutes \uff5c Machine Learning Introduction \uff5cWhat Is Machine Learning \uff5cSimplilearn [-DEL6SVRPw0]",
       "start": 191.0,
       "end": 195.0,
       "text": " showing that AI is now better at reading than humans."
     },
     {
-      "number": "01",
+      "number": "02",
       "title": "Machine Learning In 5 Minutes \uff5c Machine Learning Introduction \uff5cWhat Is Machine Learning \uff5cSimplilearn [-DEL6SVRPw0]",
       "start": 195.0,
       "end": 200.0,
       "text": " Another interesting article talks about five things AI does better than humans,"
     },
     {
-      "number": "01",
+      "number": "02",
       "title": "Machine Learning In 5 Minutes \uff5c Machine Learning Introduction \uff5cWhat Is Machine Learning \uff5cSimplilearn [-DEL6SVRPw0]",
       "start": 200.0,
       "end": 209.0,
       "text": " including building wooden block towers, lip reading, transcribing, news reporting and disease diagnosis."
     },
     {
-      "number": "01",
+      "number": "02",
       "title": "Machine Learning In 5 Minutes \uff5c Machine Learning Introduction \uff5cWhat Is Machine Learning \uff5cSimplilearn [-DEL6SVRPw0]",
       "start": 209.0,
       "end": 214.0,
       "text": " An average machine learning engineer earns about 140,000 US dollars a year."
     },
     {
-      "number": "01",
+      "number": "02",
       "title": "Machine Learning In 5 Minutes \uff5c Machine Learning Introduction \uff5cWhat Is Machine Learning \uff5cSimplilearn [-DEL6SVRPw0]",
       "start": 214.0,
       "end": 217.0,
       "text": " Isn't that alone motivating enough?"
     },
     {
-      "number": "01",
+      "number": "02",
       "title": "Machine Learning In 5 Minutes \uff5c Machine Learning Introduction \uff5cWhat Is Machine Learning \uff5cSimplilearn [-DEL6SVRPw0]",
       "start": 217.0,
       "end": 223.0,
       "text": " Here are the most buzzing job roles you will be eligible for once you learn the fundamentals of machine learning."
     },
     {
-      "number": "01",
+      "number": "02",
       "title": "Machine Learning In 5 Minutes \uff5c Machine Learning Introduction \uff5cWhat Is Machine Learning \uff5cSimplilearn [-DEL6SVRPw0]",
       "start": 223.0,
       "end": 226.0,
       "text": " 1. Machine Learning Engineer"
     },
     {
-      "number": "01",
+      "number": "02",
       "title": "Machine Learning In 5 Minutes \uff5c Machine Learning Introduction \uff5cWhat Is Machine Learning \uff5cSimplilearn [-DEL6SVRPw0]",
       "start": 226.0,
       "end": 228.0,
       "text": " 2. Deep Learning Engineer"
     },
     {
-      "number": "01",
+      "number": "02",
       "title": "Machine Learning In 5 Minutes \uff5c Machine Learning Introduction \uff5cWhat Is Machine Learning \uff5cSimplilearn [-DEL6SVRPw0]",
       "start": 228.0,
       "end": 231.0,
       "text": " 3. AI Engineer"
     },
     {
-      "number": "01",
+      "number": "02",
       "title": "Machine Learning In 5 Minutes \uff5c Machine Learning Introduction \uff5cWhat Is Machine Learning \uff5cSimplilearn [-DEL6SVRPw0]",
       "start": 231.0,
       "end": 234.0,
       "text": " 4. Data Scientist"
     },
     {
-      "number": "01",
+      "number": "02",
       "title": "Machine Learning In 5 Minutes \uff5c Machine Learning Introduction \uff5cWhat Is Machine Learning \uff5cSimplilearn [-DEL6SVRPw0]",
       "start": 234.0,
       "end": 237.0,
       "text": " Do check out our SimplyLearns Machine Learning Certification Training"
     },
     {
-      "number": "01",
+      "number": "02",
       "title": "Machine Learning In 5 Minutes \uff5c Machine Learning Introduction \uff5cWhat Is Machine Learning \uff5cSimplilearn [-DEL6SVRPw0]",
       "start": 237.0,
       "end": 243.0,
       "text": " where you will master the concepts of supervised, unsupervised and reinforcement learning."
     },
     {
-      "number": "01",
+      "number": "02",
       "title": "Machine Learning In 5 Minutes \uff5c Machine Learning Introduction \uff5cWhat Is Machine Learning \uff5cSimplilearn [-DEL6SVRPw0]",
       "start": 243.0,
       "end": 249.0,
       "text": " Working on algorithms such as decision tree, regression, naive bays and SVM"
     },
     {
-      "number": "01",
+      "number": "02",
       "title": "Machine Learning In 5 Minutes \uff5c Machine Learning Introduction \uff5cWhat Is Machine Learning \uff5cSimplilearn [-DEL6SVRPw0]",
       "start": 249.0,
       "end": 258.0,
       "text": " and applications of ML through 25 plus hands-on exercises and four real-life industry projects."
     },
     {
-      "number": "01",
+      "number": "02",
       "title": "Machine Learning In 5 Minutes \uff5c Machine Learning Introduction \uff5cWhat Is Machine Learning \uff5cSimplilearn [-DEL6SVRPw0]",
       "start": 258.0,
       "end": 260.0,
       "text": " Thanks for watching."
     },
     {
-      "number": "01",
+      "number": "02",
       "title": "Machine Learning In 5 Minutes \uff5c Machine Learning Introduction \uff5cWhat Is Machine Learning \uff5cSimplilearn [-DEL6SVRPw0]",
       "start": 273.0,
       "end": 275.0,

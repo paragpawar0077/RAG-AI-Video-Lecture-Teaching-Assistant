@@ -1,0 +1,886 @@
+{
+  "chunks": [
+    {
+      "number": "01",
+      "title": "Lec-37\uff1a Supervised, Unsupervised and Reinforcement Learning in Artificial Intelligence in Hindi [4dwsSz_fNSQ]",
+      "start": 0.0,
+      "end": 3.0,
+      "text": " Hello friends, welcome to Gate Smashings."
+    },
+    {
+      "number": "01",
+      "title": "Lec-37\uff1a Supervised, Unsupervised and Reinforcement Learning in Artificial Intelligence in Hindi [4dwsSz_fNSQ]",
+      "start": 3.0,
+      "end": 7.0,
+      "text": " In today's video, we are going to discuss various types of learnings in AI"
+    },
+    {
+      "number": "01",
+      "title": "Lec-37\uff1a Supervised, Unsupervised and Reinforcement Learning in Artificial Intelligence in Hindi [4dwsSz_fNSQ]",
+      "start": 7.0,
+      "end": 11.0,
+      "text": " or you can also say it as various types of machine learnings."
+    },
+    {
+      "number": "01",
+      "title": "Lec-37\uff1a Supervised, Unsupervised and Reinforcement Learning in Artificial Intelligence in Hindi [4dwsSz_fNSQ]",
+      "start": 11.0,
+      "end": 16.0,
+      "text": " So here if we talk about machine learning, we have different type of learnings"
+    },
+    {
+      "number": "01",
+      "title": "Lec-37\uff1a Supervised, Unsupervised and Reinforcement Learning in Artificial Intelligence in Hindi [4dwsSz_fNSQ]",
+      "start": 16.0,
+      "end": 20.0,
+      "text": " which are supervised, unsupervised and reinforcement."
+    },
+    {
+      "number": "01",
+      "title": "Lec-37\uff1a Supervised, Unsupervised and Reinforcement Learning in Artificial Intelligence in Hindi [4dwsSz_fNSQ]",
+      "start": 20.0,
+      "end": 23.0,
+      "text": " And in many places, these three are asked about difference."
+    },
+    {
+      "number": "01",
+      "title": "Lec-37\uff1a Supervised, Unsupervised and Reinforcement Learning in Artificial Intelligence in Hindi [4dwsSz_fNSQ]",
+      "start": 23.0,
+      "end": 27.0,
+      "text": " And here in this video, I will give you a very simple level"
+    },
+    {
+      "number": "01",
+      "title": "Lec-37\uff1a Supervised, Unsupervised and Reinforcement Learning in Artificial Intelligence in Hindi [4dwsSz_fNSQ]",
+      "start": 27.0,
+      "end": 32.0,
+      "text": " for example, if we talk about PK movie or the exit poll of elections"
+    },
+    {
+      "number": "01",
+      "title": "Lec-37\uff1a Supervised, Unsupervised and Reinforcement Learning in Artificial Intelligence in Hindi [4dwsSz_fNSQ]",
+      "start": 32.0,
+      "end": 36.0,
+      "text": " then on the basis of those examples, I am going to tell the difference between these three"
+    },
+    {
+      "number": "01",
+      "title": "Lec-37\uff1a Supervised, Unsupervised and Reinforcement Learning in Artificial Intelligence in Hindi [4dwsSz_fNSQ]",
+      "start": 36.0,
+      "end": 40.0,
+      "text": " and I am going to give their basic introduction here."
+    },
+    {
+      "number": "01",
+      "title": "Lec-37\uff1a Supervised, Unsupervised and Reinforcement Learning in Artificial Intelligence in Hindi [4dwsSz_fNSQ]",
+      "start": 40.0,
+      "end": 43.0,
+      "text": " So here if we start with supervised learning,"
+    },
+    {
+      "number": "01",
+      "title": "Lec-37\uff1a Supervised, Unsupervised and Reinforcement Learning in Artificial Intelligence in Hindi [4dwsSz_fNSQ]",
+      "start": 43.0,
+      "end": 47.0,
+      "text": " then as we talk about machine learning or artificial intelligence"
+    },
+    {
+      "number": "01",
+      "title": "Lec-37\uff1a Supervised, Unsupervised and Reinforcement Learning in Artificial Intelligence in Hindi [4dwsSz_fNSQ]",
+      "start": 47.0,
+      "end": 51.0,
+      "text": " then our main aim is how to make machines intelligent."
+    },
+    {
+      "number": "01",
+      "title": "Lec-37\uff1a Supervised, Unsupervised and Reinforcement Learning in Artificial Intelligence in Hindi [4dwsSz_fNSQ]",
+      "start": 51.0,
+      "end": 55.0,
+      "text": " And the main factor of making any machine intelligent is"
+    },
+    {
+      "number": "01",
+      "title": "Lec-37\uff1a Supervised, Unsupervised and Reinforcement Learning in Artificial Intelligence in Hindi [4dwsSz_fNSQ]",
+      "start": 55.0,
+      "end": 60.0,
+      "text": " that it should learn from itself. So here we have three types of learnings"
+    },
+    {
+      "number": "01",
+      "title": "Lec-37\uff1a Supervised, Unsupervised and Reinforcement Learning in Artificial Intelligence in Hindi [4dwsSz_fNSQ]",
+      "start": 60.0,
+      "end": 64.0,
+      "text": " supervised, unsupervised, reinforcement. These are the main three learnings"
+    },
+    {
+      "number": "01",
+      "title": "Lec-37\uff1a Supervised, Unsupervised and Reinforcement Learning in Artificial Intelligence in Hindi [4dwsSz_fNSQ]",
+      "start": 64.0,
+      "end": 69.0,
+      "text": " we have different types of learnings also. So we are starting with supervised learnings."
+    },
+    {
+      "number": "01",
+      "title": "Lec-37\uff1a Supervised, Unsupervised and Reinforcement Learning in Artificial Intelligence in Hindi [4dwsSz_fNSQ]",
+      "start": 69.0,
+      "end": 71.0,
+      "text": " First I am giving you a basic technical introduction."
+    },
+    {
+      "number": "01",
+      "title": "Lec-37\uff1a Supervised, Unsupervised and Reinforcement Learning in Artificial Intelligence in Hindi [4dwsSz_fNSQ]",
+      "start": 71.0,
+      "end": 75.0,
+      "text": " So here in supervised learning, we have training data."
+    },
+    {
+      "number": "01",
+      "title": "Lec-37\uff1a Supervised, Unsupervised and Reinforcement Learning in Artificial Intelligence in Hindi [4dwsSz_fNSQ]",
+      "start": 75.0,
+      "end": 78.0,
+      "text": " What does it mean? It is known as supervised."
+    },
+    {
+      "number": "01",
+      "title": "Lec-37\uff1a Supervised, Unsupervised and Reinforcement Learning in Artificial Intelligence in Hindi [4dwsSz_fNSQ]",
+      "start": 78.0,
+      "end": 81.0,
+      "text": " Means here we have a supervisor."
+    },
+    {
+      "number": "01",
+      "title": "Lec-37\uff1a Supervised, Unsupervised and Reinforcement Learning in Artificial Intelligence in Hindi [4dwsSz_fNSQ]",
+      "start": 81.0,
+      "end": 85.0,
+      "text": " Supervisor means a teacher who is giving us some instructions."
+    },
+    {
+      "number": "01",
+      "title": "Lec-37\uff1a Supervised, Unsupervised and Reinforcement Learning in Artificial Intelligence in Hindi [4dwsSz_fNSQ]",
+      "start": 85.0,
+      "end": 88.0,
+      "text": " Who is training data here?"
+    },
+    {
+      "number": "01",
+      "title": "Lec-37\uff1a Supervised, Unsupervised and Reinforcement Learning in Artificial Intelligence in Hindi [4dwsSz_fNSQ]",
+      "start": 88.0,
+      "end": 93.0,
+      "text": " Training data means we already have input, we have output also available."
+    },
+    {
+      "number": "01",
+      "title": "Lec-37\uff1a Supervised, Unsupervised and Reinforcement Learning in Artificial Intelligence in Hindi [4dwsSz_fNSQ]",
+      "start": 93.0,
+      "end": 97.0,
+      "text": " And on the basis of that input output, on the basis of that training data"
+    },
+    {
+      "number": "01",
+      "title": "Lec-37\uff1a Supervised, Unsupervised and Reinforcement Learning in Artificial Intelligence in Hindi [4dwsSz_fNSQ]",
+      "start": 97.0,
+      "end": 100.0,
+      "text": " or on the basis of that labelled data, we prepare a model"
+    },
+    {
+      "number": "01",
+      "title": "Lec-37\uff1a Supervised, Unsupervised and Reinforcement Learning in Artificial Intelligence in Hindi [4dwsSz_fNSQ]",
+      "start": 100.0,
+      "end": 107.0,
+      "text": " and in that model, we put new input and check whether the valid output is coming or not."
+    },
+    {
+      "number": "01",
+      "title": "Lec-37\uff1a Supervised, Unsupervised and Reinforcement Learning in Artificial Intelligence in Hindi [4dwsSz_fNSQ]",
+      "start": 107.0,
+      "end": 111.0,
+      "text": " What does it mean? If I explain it to you from a simple example"
+    },
+    {
+      "number": "01",
+      "title": "Lec-37\uff1a Supervised, Unsupervised and Reinforcement Learning in Artificial Intelligence in Hindi [4dwsSz_fNSQ]",
+      "start": 111.0,
+      "end": 116.0,
+      "text": " then exit poll. As you must have seen that many channels had given an exit poll"
+    },
+    {
+      "number": "01",
+      "title": "Lec-37\uff1a Supervised, Unsupervised and Reinforcement Learning in Artificial Intelligence in Hindi [4dwsSz_fNSQ]",
+      "start": 116.0,
+      "end": 120.0,
+      "text": " of this Lok Sabha election. So what is the exit poll of Lok Sabha election?"
+    },
+    {
+      "number": "01",
+      "title": "Lec-37\uff1a Supervised, Unsupervised and Reinforcement Learning in Artificial Intelligence in Hindi [4dwsSz_fNSQ]",
+      "start": 120.0,
+      "end": 125.0,
+      "text": " It is training data. Training data means that from thousands of people"
+    },
+    {
+      "number": "01",
+      "title": "Lec-37\uff1a Supervised, Unsupervised and Reinforcement Learning in Artificial Intelligence in Hindi [4dwsSz_fNSQ]",
+      "start": 125.0,
+      "end": 129.0,
+      "text": " from lakhs of people, they took feedback and from different category of people."
+    },
+    {
+      "number": "01",
+      "title": "Lec-37\uff1a Supervised, Unsupervised and Reinforcement Learning in Artificial Intelligence in Hindi [4dwsSz_fNSQ]",
+      "start": 129.0,
+      "end": 133.0,
+      "text": " It means that they took it from youngsters, from youngsters also"
+    },
+    {
+      "number": "01",
+      "title": "Lec-37\uff1a Supervised, Unsupervised and Reinforcement Learning in Artificial Intelligence in Hindi [4dwsSz_fNSQ]",
+      "start": 133.0,
+      "end": 136.0,
+      "text": " and from children also. They took the feedback from elders."
+    },
+    {
+      "number": "01",
+      "title": "Lec-37\uff1a Supervised, Unsupervised and Reinforcement Learning in Artificial Intelligence in Hindi [4dwsSz_fNSQ]",
+      "start": 136.0,
+      "end": 139.0,
+      "text": " And what is the input in that feedback?"
+    },
+    {
+      "number": "01",
+      "title": "Lec-37\uff1a Supervised, Unsupervised and Reinforcement Learning in Artificial Intelligence in Hindi [4dwsSz_fNSQ]",
+      "start": 139.0,
+      "end": 143.0,
+      "text": " And on the basis of that input, we will get so many seats for BJP"
+    },
+    {
+      "number": "01",
+      "title": "Lec-37\uff1a Supervised, Unsupervised and Reinforcement Learning in Artificial Intelligence in Hindi [4dwsSz_fNSQ]",
+      "start": 143.0,
+      "end": 148.0,
+      "text": " Congress will get so many seats, this is the winning candidate, this is the losing candidate."
+    },
+    {
+      "number": "01",
+      "title": "Lec-37\uff1a Supervised, Unsupervised and Reinforcement Learning in Artificial Intelligence in Hindi [4dwsSz_fNSQ]",
+      "start": 148.0,
+      "end": 152.0,
+      "text": " So all these points have already been put into training data."
+    },
+    {
+      "number": "01",
+      "title": "Lec-37\uff1a Supervised, Unsupervised and Reinforcement Learning in Artificial Intelligence in Hindi [4dwsSz_fNSQ]",
+      "start": 152.0,
+      "end": 156.0,
+      "text": " And this is our training data basis, we are working on it."
+    },
+    {
+      "number": "01",
+      "title": "Lec-37\uff1a Supervised, Unsupervised and Reinforcement Learning in Artificial Intelligence in Hindi [4dwsSz_fNSQ]",
+      "start": 156.0,
+      "end": 159.0,
+      "text": " Means we have given this data to the machine."
+    },
+    {
+      "number": "01",
+      "title": "Lec-37\uff1a Supervised, Unsupervised and Reinforcement Learning in Artificial Intelligence in Hindi [4dwsSz_fNSQ]",
+      "start": 159.0,
+      "end": 164.0,
+      "text": " Now learning algorithms will work here. What learning algorithms are there?"
+    },
+    {
+      "number": "01",
+      "title": "Lec-37\uff1a Supervised, Unsupervised and Reinforcement Learning in Artificial Intelligence in Hindi [4dwsSz_fNSQ]",
+      "start": 164.0,
+      "end": 168.0,
+      "text": " Here we use like a new base algorithm. What is the new base?"
+    },
+    {
+      "number": "01",
+      "title": "Lec-37\uff1a Supervised, Unsupervised and Reinforcement Learning in Artificial Intelligence in Hindi [4dwsSz_fNSQ]",
+      "start": 168.0,
+      "end": 173.0,
+      "text": " It is working on supervised learning in which you have put your input and output first."
+    },
+    {
+      "number": "01",
+      "title": "Lec-37\uff1a Supervised, Unsupervised and Reinforcement Learning in Artificial Intelligence in Hindi [4dwsSz_fNSQ]",
+      "start": 173.0,
+      "end": 177.0,
+      "text": " Now what will happen? Now you have given new input. What is the new input here?"
+    },
+    {
+      "number": "01",
+      "title": "Lec-37\uff1a Supervised, Unsupervised and Reinforcement Learning in Artificial Intelligence in Hindi [4dwsSz_fNSQ]",
+      "start": 177.0,
+      "end": 183.0,
+      "text": " When counting started in actual, the original data, the original people"
+    },
+    {
+      "number": "01",
+      "title": "Lec-37\uff1a Supervised, Unsupervised and Reinforcement Learning in Artificial Intelligence in Hindi [4dwsSz_fNSQ]",
+      "start": 183.0,
+      "end": 188.0,
+      "text": " voted, when the data came and what we did with that data?"
+    },
+    {
+      "number": "01",
+      "title": "Lec-37\uff1a Supervised, Unsupervised and Reinforcement Learning in Artificial Intelligence in Hindi [4dwsSz_fNSQ]",
+      "start": 188.0,
+      "end": 192.0,
+      "text": " On the model, the model which was based on which? The data of exit poll."
+    },
+    {
+      "number": "01",
+      "title": "Lec-37\uff1a Supervised, Unsupervised and Reinforcement Learning in Artificial Intelligence in Hindi [4dwsSz_fNSQ]",
+      "start": 192.0,
+      "end": 197.0,
+      "text": " The data of a dummy and the output on the basis of feedback,"
+    },
+    {
+      "number": "01",
+      "title": "Lec-37\uff1a Supervised, Unsupervised and Reinforcement Learning in Artificial Intelligence in Hindi [4dwsSz_fNSQ]",
+      "start": 197.0,
+      "end": 200.0,
+      "text": " we made the model on the basis of that."
+    },
+    {
+      "number": "01",
+      "title": "Lec-37\uff1a Supervised, Unsupervised and Reinforcement Learning in Artificial Intelligence in Hindi [4dwsSz_fNSQ]",
+      "start": 200.0,
+      "end": 203.0,
+      "text": " The model means we made a prototype that this will win, this will lose,"
+    },
+    {
+      "number": "01",
+      "title": "Lec-37\uff1a Supervised, Unsupervised and Reinforcement Learning in Artificial Intelligence in Hindi [4dwsSz_fNSQ]",
+      "start": 203.0,
+      "end": 206.0,
+      "text": " this will lose, this will have more chances of winning and this will have less chances of losing."
+    },
+    {
+      "number": "01",
+      "title": "Lec-37\uff1a Supervised, Unsupervised and Reinforcement Learning in Artificial Intelligence in Hindi [4dwsSz_fNSQ]",
+      "start": 206.0,
+      "end": 210.0,
+      "text": " Now what will happen? As soon as we put the new data in it or put the actual data,"
+    },
+    {
+      "number": "01",
+      "title": "Lec-37\uff1a Supervised, Unsupervised and Reinforcement Learning in Artificial Intelligence in Hindi [4dwsSz_fNSQ]",
+      "start": 210.0,
+      "end": 215.0,
+      "text": " on the basis of that model, it gave some output. Now what is our output?"
+    },
+    {
+      "number": "01",
+      "title": "Lec-37\uff1a Supervised, Unsupervised and Reinforcement Learning in Artificial Intelligence in Hindi [4dwsSz_fNSQ]",
+      "start": 215.0,
+      "end": 221.0,
+      "text": " If your output is correct there, means what you said in exit poll,"
+    },
+    {
+      "number": "01",
+      "title": "Lec-37\uff1a Supervised, Unsupervised and Reinforcement Learning in Artificial Intelligence in Hindi [4dwsSz_fNSQ]",
+      "start": 221.0,
+      "end": 225.0,
+      "text": " that is your exact result. So obviously the training data you gave,"
+    },
+    {
+      "number": "01",
+      "title": "Lec-37\uff1a Supervised, Unsupervised and Reinforcement Learning in Artificial Intelligence in Hindi [4dwsSz_fNSQ]",
+      "start": 225.0,
+      "end": 230.0,
+      "text": " that data gave a very good level of data, gave a very refined data"
+    },
+    {
+      "number": "01",
+      "title": "Lec-37\uff1a Supervised, Unsupervised and Reinforcement Learning in Artificial Intelligence in Hindi [4dwsSz_fNSQ]",
+      "start": 230.0,
+      "end": 235.0,
+      "text": " and your algorithm is learning properly and classifying."
+    },
+    {
+      "number": "01",
+      "title": "Lec-37\uff1a Supervised, Unsupervised and Reinforcement Learning in Artificial Intelligence in Hindi [4dwsSz_fNSQ]",
+      "start": 235.0,
+      "end": 239.0,
+      "text": " Classification means that you have to classify the data, that it will win,"
+    },
+    {
+      "number": "01",
+      "title": "Lec-37\uff1a Supervised, Unsupervised and Reinforcement Learning in Artificial Intelligence in Hindi [4dwsSz_fNSQ]",
+      "start": 239.0,
+      "end": 243.0,
+      "text": " it will lose, it has more chances of winning. So in this way what we do?"
+    },
+    {
+      "number": "01",
+      "title": "Lec-37\uff1a Supervised, Unsupervised and Reinforcement Learning in Artificial Intelligence in Hindi [4dwsSz_fNSQ]",
+      "start": 243.0,
+      "end": 249.0,
+      "text": " We already provide the machine with input and output. So we call it supervised learning."
+    },
+    {
+      "number": "01",
+      "title": "Lec-37\uff1a Supervised, Unsupervised and Reinforcement Learning in Artificial Intelligence in Hindi [4dwsSz_fNSQ]",
+      "start": 249.0,
+      "end": 253.0,
+      "text": " If we talk about unsupervised learning, then it is a simple example,"
+    },
+    {
+      "number": "01",
+      "title": "Lec-37\uff1a Supervised, Unsupervised and Reinforcement Learning in Artificial Intelligence in Hindi [4dwsSz_fNSQ]",
+      "start": 253.0,
+      "end": 258.0,
+      "text": " if we talk about PK movie. So when Ameer Khan comes from another planet,"
+    },
+    {
+      "number": "01",
+      "title": "Lec-37\uff1a Supervised, Unsupervised and Reinforcement Learning in Artificial Intelligence in Hindi [4dwsSz_fNSQ]",
+      "start": 258.0,
+      "end": 262.0,
+      "text": " then he doesn't know anything, means like Newborn baby, he doesn't have any idea"
+    },
+    {
+      "number": "01",
+      "title": "Lec-37\uff1a Supervised, Unsupervised and Reinforcement Learning in Artificial Intelligence in Hindi [4dwsSz_fNSQ]",
+      "start": 262.0,
+      "end": 266.0,
+      "text": " of what is correct, what is wrong, who is a man, who is a woman, who is a child,"
+    },
+    {
+      "number": "01",
+      "title": "Lec-37\uff1a Supervised, Unsupervised and Reinforcement Learning in Artificial Intelligence in Hindi [4dwsSz_fNSQ]",
+      "start": 266.0,
+      "end": 270.0,
+      "text": " who doesn't know anything. So if you have seen that scene,"
+    },
+    {
+      "number": "01",
+      "title": "Lec-37\uff1a Supervised, Unsupervised and Reinforcement Learning in Artificial Intelligence in Hindi [4dwsSz_fNSQ]",
+      "start": 270.0,
+      "end": 275.0,
+      "text": " then you must know that he doesn't know here how people's hair is."
+    },
+    {
+      "number": "01",
+      "title": "Lec-37\uff1a Supervised, Unsupervised and Reinforcement Learning in Artificial Intelligence in Hindi [4dwsSz_fNSQ]",
+      "start": 275.0,
+      "end": 280.0,
+      "text": " So he says that someone's hair is glued to someone's neck, someone's hair is colored."
+    },
+    {
+      "number": "01",
+      "title": "Lec-37\uff1a Supervised, Unsupervised and Reinforcement Learning in Artificial Intelligence in Hindi [4dwsSz_fNSQ]",
+      "start": 280.0,
+      "end": 285.0,
+      "text": " So what is this in actual? He doesn't have any knowledge, he has only input."
+    },
+    {
+      "number": "01",
+      "title": "Lec-37\uff1a Supervised, Unsupervised and Reinforcement Learning in Artificial Intelligence in Hindi [4dwsSz_fNSQ]",
+      "start": 285.0,
+      "end": 288.0,
+      "text": " Where is the input coming from? From the sensor, means he is looking from the eyes,"
+    },
+    {
+      "number": "01",
+      "title": "Lec-37\uff1a Supervised, Unsupervised and Reinforcement Learning in Artificial Intelligence in Hindi [4dwsSz_fNSQ]",
+      "start": 288.0,
+      "end": 293.0,
+      "text": " he is judging from the eyes, and what is he doing on the basis of his physical structure,"
+    },
+    {
+      "number": "01",
+      "title": "Lec-37\uff1a Supervised, Unsupervised and Reinforcement Learning in Artificial Intelligence in Hindi [4dwsSz_fNSQ]",
+      "start": 293.0,
+      "end": 298.0,
+      "text": " on the basis of his vision, what is he doing on the basis of his vision, he is doing group,"
+    },
+    {
+      "number": "01",
+      "title": "Lec-37\uff1a Supervised, Unsupervised and Reinforcement Learning in Artificial Intelligence in Hindi [4dwsSz_fNSQ]",
+      "start": 298.0,
+      "end": 301.0,
+      "text": " he is making a cluster there. What does the cluster mean?"
+    },
+    {
+      "number": "01",
+      "title": "Lec-37\uff1a Supervised, Unsupervised and Reinforcement Learning in Artificial Intelligence in Hindi [4dwsSz_fNSQ]",
+      "start": 301.0,
+      "end": 306.0,
+      "text": " He has seen that if someone's moustache, someone's height is good, or someone has worn"
+    },
+    {
+      "number": "01",
+      "title": "Lec-37\uff1a Supervised, Unsupervised and Reinforcement Learning in Artificial Intelligence in Hindi [4dwsSz_fNSQ]",
+      "start": 306.0,
+      "end": 310.0,
+      "text": " a white-dressed clothes on the kurta, then that means he has kept it in the category of men,"
+    },
+    {
+      "number": "01",
+      "title": "Lec-37\uff1a Supervised, Unsupervised and Reinforcement Learning in Artificial Intelligence in Hindi [4dwsSz_fNSQ]",
+      "start": 310.0,
+      "end": 314.0,
+      "text": " means he has kept it in the category of Jains. He has made a category of ladies,"
+    },
+    {
+      "number": "01",
+      "title": "Lec-37\uff1a Supervised, Unsupervised and Reinforcement Learning in Artificial Intelligence in Hindi [4dwsSz_fNSQ]",
+      "start": 314.0,
+      "end": 317.0,
+      "text": " he has made a category of players, he has made a category of children,"
+    },
+    {
+      "number": "01",
+      "title": "Lec-37\uff1a Supervised, Unsupervised and Reinforcement Learning in Artificial Intelligence in Hindi [4dwsSz_fNSQ]",
+      "start": 317.0,
+      "end": 322.0,
+      "text": " it is not that that category is absolutely right, on a first level, what did he do?"
+    },
+    {
+      "number": "01",
+      "title": "Lec-37\uff1a Supervised, Unsupervised and Reinforcement Learning in Artificial Intelligence in Hindi [4dwsSz_fNSQ]",
+      "start": 322.0,
+      "end": 325.0,
+      "text": " He has made a group, he has made a cluster. So what is this?"
+    },
+    {
+      "number": "01",
+      "title": "Lec-37\uff1a Supervised, Unsupervised and Reinforcement Learning in Artificial Intelligence in Hindi [4dwsSz_fNSQ]",
+      "start": 325.0,
+      "end": 330.0,
+      "text": " We have only input, not output, he doesn't know what this thing is,"
+    },
+    {
+      "number": "01",
+      "title": "Lec-37\uff1a Supervised, Unsupervised and Reinforcement Learning in Artificial Intelligence in Hindi [4dwsSz_fNSQ]",
+      "start": 330.0,
+      "end": 334.0,
+      "text": " he is slowly learning, he is learning from himself, what is he doing?"
+    },
+    {
+      "number": "01",
+      "title": "Lec-37\uff1a Supervised, Unsupervised and Reinforcement Learning in Artificial Intelligence in Hindi [4dwsSz_fNSQ]",
+      "start": 334.0,
+      "end": 338.0,
+      "text": " He is going towards the actual output. Here we have K-Mean,"
+    },
+    {
+      "number": "01",
+      "title": "Lec-37\uff1a Supervised, Unsupervised and Reinforcement Learning in Artificial Intelligence in Hindi [4dwsSz_fNSQ]",
+      "start": 338.0,
+      "end": 342.0,
+      "text": " like we use the algorithm, so what do we do in K-Mean clustering?"
+    },
+    {
+      "number": "01",
+      "title": "Lec-37\uff1a Supervised, Unsupervised and Reinforcement Learning in Artificial Intelligence in Hindi [4dwsSz_fNSQ]",
+      "start": 342.0,
+      "end": 347.0,
+      "text": " We make a group and the same type of people try to keep them in one group."
+    },
+    {
+      "number": "01",
+      "title": "Lec-37\uff1a Supervised, Unsupervised and Reinforcement Learning in Artificial Intelligence in Hindi [4dwsSz_fNSQ]",
+      "start": 347.0,
+      "end": 353.0,
+      "text": " So this unsupervised learning, mostly machines come in your unsupervised learning"
+    },
+    {
+      "number": "01",
+      "title": "Lec-37\uff1a Supervised, Unsupervised and Reinforcement Learning in Artificial Intelligence in Hindi [4dwsSz_fNSQ]",
+      "start": 353.0,
+      "end": 358.0,
+      "text": " because machines have no brains, so obviously what they do?"
+    },
+    {
+      "number": "01",
+      "title": "Lec-37\uff1a Supervised, Unsupervised and Reinforcement Learning in Artificial Intelligence in Hindi [4dwsSz_fNSQ]",
+      "start": 358.0,
+      "end": 362.0,
+      "text": " We have to give them supervised, they have to give them the first data,"
+    },
+    {
+      "number": "01",
+      "title": "Lec-37\uff1a Supervised, Unsupervised and Reinforcement Learning in Artificial Intelligence in Hindi [4dwsSz_fNSQ]",
+      "start": 362.0,
+      "end": 368.0,
+      "text": " on the basis of that they generate some output or make some decisions."
+    },
+    {
+      "number": "01",
+      "title": "Lec-37\uff1a Supervised, Unsupervised and Reinforcement Learning in Artificial Intelligence in Hindi [4dwsSz_fNSQ]",
+      "start": 368.0,
+      "end": 372.0,
+      "text": " So here, if we talk about the third one, reinforcement learning."
+    },
+    {
+      "number": "01",
+      "title": "Lec-37\uff1a Supervised, Unsupervised and Reinforcement Learning in Artificial Intelligence in Hindi [4dwsSz_fNSQ]",
+      "start": 372.0,
+      "end": 376.0,
+      "text": " What is reinforcement learning? We have a reward and policy based on it."
+    },
+    {
+      "number": "01",
+      "title": "Lec-37\uff1a Supervised, Unsupervised and Reinforcement Learning in Artificial Intelligence in Hindi [4dwsSz_fNSQ]",
+      "start": 376.0,
+      "end": 380.0,
+      "text": " Reward and policy means that we have an agent,"
+    },
+    {
+      "number": "01",
+      "title": "Lec-37\uff1a Supervised, Unsupervised and Reinforcement Learning in Artificial Intelligence in Hindi [4dwsSz_fNSQ]",
+      "start": 380.0,
+      "end": 386.0,
+      "text": " any agent like P.K. Amir Khan is an agent, that agent performed some action,"
+    },
+    {
+      "number": "01",
+      "title": "Lec-37\uff1a Supervised, Unsupervised and Reinforcement Learning in Artificial Intelligence in Hindi [4dwsSz_fNSQ]",
+      "start": 386.0,
+      "end": 391.0,
+      "text": " where? Environment, the entire environment performed some action in it"
+    },
+    {
+      "number": "01",
+      "title": "Lec-37\uff1a Supervised, Unsupervised and Reinforcement Learning in Artificial Intelligence in Hindi [4dwsSz_fNSQ]",
+      "start": 391.0,
+      "end": 397.0,
+      "text": " and on the basis of that action, he got either some reward, something in plus or something negative"
+    },
+    {
+      "number": "01",
+      "title": "Lec-37\uff1a Supervised, Unsupervised and Reinforcement Learning in Artificial Intelligence in Hindi [4dwsSz_fNSQ]",
+      "start": 397.0,
+      "end": 401.0,
+      "text": " which we can call penalty and state changed something,"
+    },
+    {
+      "number": "01",
+      "title": "Lec-37\uff1a Supervised, Unsupervised and Reinforcement Learning in Artificial Intelligence in Hindi [4dwsSz_fNSQ]",
+      "start": 401.0,
+      "end": 404.0,
+      "text": " what would be the state change? It changed something in the environment,"
+    },
+    {
+      "number": "01",
+      "title": "Lec-37\uff1a Supervised, Unsupervised and Reinforcement Learning in Artificial Intelligence in Hindi [4dwsSz_fNSQ]",
+      "start": 404.0,
+      "end": 409.0,
+      "text": " then he made some policy on the basis of that and next time on the basis of that policy"
+    },
+    {
+      "number": "01",
+      "title": "Lec-37\uff1a Supervised, Unsupervised and Reinforcement Learning in Artificial Intelligence in Hindi [4dwsSz_fNSQ]",
+      "start": 409.0,
+      "end": 413.0,
+      "text": " he will perform it in a different way, meaning you must have seen that scene"
+    },
+    {
+      "number": "01",
+      "title": "Lec-37\uff1a Supervised, Unsupervised and Reinforcement Learning in Artificial Intelligence in Hindi [4dwsSz_fNSQ]",
+      "start": 413.0,
+      "end": 418.0,
+      "text": " where he gives a note of Rs. 50, and in return he gets a carrot."
+    },
+    {
+      "number": "01",
+      "title": "Lec-37\uff1a Supervised, Unsupervised and Reinforcement Learning in Artificial Intelligence in Hindi [4dwsSz_fNSQ]",
+      "start": 418.0,
+      "end": 422.0,
+      "text": " So what does he feel here? As soon as he performed the action,"
+    },
+    {
+      "number": "01",
+      "title": "Lec-37\uff1a Supervised, Unsupervised and Reinforcement Learning in Artificial Intelligence in Hindi [4dwsSz_fNSQ]",
+      "start": 422.0,
+      "end": 426.0,
+      "text": " he gave a note of Rs. 50, the state changed again and what was the reward?"
+    },
+    {
+      "number": "01",
+      "title": "Lec-37\uff1a Supervised, Unsupervised and Reinforcement Learning in Artificial Intelligence in Hindi [4dwsSz_fNSQ]",
+      "start": 426.0,
+      "end": 429.0,
+      "text": " He gave a bundle of carrots. Now what will happen?"
+    },
+    {
+      "number": "01",
+      "title": "Lec-37\uff1a Supervised, Unsupervised and Reinforcement Learning in Artificial Intelligence in Hindi [4dwsSz_fNSQ]",
+      "start": 429.0,
+      "end": 433.0,
+      "text": " He thought that he made a policy that the picture of this person"
+    },
+    {
+      "number": "01",
+      "title": "Lec-37\uff1a Supervised, Unsupervised and Reinforcement Learning in Artificial Intelligence in Hindi [4dwsSz_fNSQ]",
+      "start": 433.0,
+      "end": 438.0,
+      "text": " wherever it is, take it, so he takes a picture of the person from all places"
+    },
+    {
+      "number": "01",
+      "title": "Lec-37\uff1a Supervised, Unsupervised and Reinforcement Learning in Artificial Intelligence in Hindi [4dwsSz_fNSQ]",
+      "start": 438.0,
+      "end": 443.0,
+      "text": " and gives it back to that person, as soon as he gives it back, he does not recognize it."
+    },
+    {
+      "number": "01",
+      "title": "Lec-37\uff1a Supervised, Unsupervised and Reinforcement Learning in Artificial Intelligence in Hindi [4dwsSz_fNSQ]",
+      "start": 443.0,
+      "end": 450.0,
+      "text": " So later on, he gives the biggest message that the value of this photo is not on the paper of only one,"
+    },
+    {
+      "number": "01",
+      "title": "Lec-37\uff1a Supervised, Unsupervised and Reinforcement Learning in Artificial Intelligence in Hindi [4dwsSz_fNSQ]",
+      "start": 450.0,
+      "end": 455.0,
+      "text": " so what is this actual example? The reinforcement where he is making a policy on the basis of penalty"
+    },
+    {
+      "number": "01",
+      "title": "Lec-37\uff1a Supervised, Unsupervised and Reinforcement Learning in Artificial Intelligence in Hindi [4dwsSz_fNSQ]",
+      "start": 455.0,
+      "end": 461.0,
+      "text": " and reward and while changing it in that policy, what is he doing? He learns."
+    },
+    {
+      "number": "01",
+      "title": "Lec-37\uff1a Supervised, Unsupervised and Reinforcement Learning in Artificial Intelligence in Hindi [4dwsSz_fNSQ]",
+      "start": 461.0,
+      "end": 467.0,
+      "text": " Generally this happens in games. You took a step in games and you got a point."
+    },
+    {
+      "number": "01",
+      "title": "Lec-37\uff1a Supervised, Unsupervised and Reinforcement Learning in Artificial Intelligence in Hindi [4dwsSz_fNSQ]",
+      "start": 467.0,
+      "end": 472.0,
+      "text": " You got a point in positive or a point in negative, on the basis of that you will design a policy"
+    },
+    {
+      "number": "01",
+      "title": "Lec-37\uff1a Supervised, Unsupervised and Reinforcement Learning in Artificial Intelligence in Hindi [4dwsSz_fNSQ]",
+      "start": 472.0,
+      "end": 476.0,
+      "text": " that next time you have such a step or you should take a similar step or not."
+    },
+    {
+      "number": "01",
+      "title": "Lec-37\uff1a Supervised, Unsupervised and Reinforcement Learning in Artificial Intelligence in Hindi [4dwsSz_fNSQ]",
+      "start": 476.0,
+      "end": 482.0,
+      "text": " So this is basically an example. You always start from the first unsupervised learning"
+    },
+    {
+      "number": "01",
+      "title": "Lec-37\uff1a Supervised, Unsupervised and Reinforcement Learning in Artificial Intelligence in Hindi [4dwsSz_fNSQ]",
+      "start": 482.0,
+      "end": 487.0,
+      "text": " where we don't have any knowledge, we only have input, we don't know anything."
+    },
+    {
+      "number": "01",
+      "title": "Lec-37\uff1a Supervised, Unsupervised and Reinforcement Learning in Artificial Intelligence in Hindi [4dwsSz_fNSQ]",
+      "start": 487.0,
+      "end": 490.0,
+      "text": " So here he makes some cluster on his basis."
+    },
+    {
+      "number": "01",
+      "title": "Lec-37\uff1a Supervised, Unsupervised and Reinforcement Learning in Artificial Intelligence in Hindi [4dwsSz_fNSQ]",
+      "start": 490.0,
+      "end": 495.0,
+      "text": " The cluster can be anything based on their physical structure, their color,"
+    },
+    {
+      "number": "01",
+      "title": "Lec-37\uff1a Supervised, Unsupervised and Reinforcement Learning in Artificial Intelligence in Hindi [4dwsSz_fNSQ]",
+      "start": 495.0,
+      "end": 500.0,
+      "text": " how they look on the basis of their structure, the cluster will be made on the basis of that."
+    },
+    {
+      "number": "01",
+      "title": "Lec-37\uff1a Supervised, Unsupervised and Reinforcement Learning in Artificial Intelligence in Hindi [4dwsSz_fNSQ]",
+      "start": 500.0,
+      "end": 503.0,
+      "text": " Then slowly he will refine the clusters."
+    },
+    {
+      "number": "01",
+      "title": "Lec-37\uff1a Supervised, Unsupervised and Reinforcement Learning in Artificial Intelligence in Hindi [4dwsSz_fNSQ]",
+      "start": 503.0,
+      "end": 509.0,
+      "text": " He got feedback from other people, slowly he will refine the clusters."
+    },
+    {
+      "number": "01",
+      "title": "Lec-37\uff1a Supervised, Unsupervised and Reinforcement Learning in Artificial Intelligence in Hindi [4dwsSz_fNSQ]",
+      "start": 509.0,
+      "end": 516.0,
+      "text": " When the cluster was formed, now as soon as he saw a dress worn, he will know"
+    },
+    {
+      "number": "01",
+      "title": "Lec-37\uff1a Supervised, Unsupervised and Reinforcement Learning in Artificial Intelligence in Hindi [4dwsSz_fNSQ]",
+      "start": 516.0,
+      "end": 523.0,
+      "text": " what is this, what is this, what will he put on the side, he will classify it and put it in the group of girls."
+    },
+    {
+      "number": "01",
+      "title": "Lec-37\uff1a Supervised, Unsupervised and Reinforcement Learning in Artificial Intelligence in Hindi [4dwsSz_fNSQ]",
+      "start": 523.0,
+      "end": 528.0,
+      "text": " Means first while doing unsupervised, he will reach in supervised learning."
+    },
+    {
+      "number": "01",
+      "title": "Lec-37\uff1a Supervised, Unsupervised and Reinforcement Learning in Artificial Intelligence in Hindi [4dwsSz_fNSQ]",
+      "start": 528.0,
+      "end": 533.0,
+      "text": " So this is the main difference, supervised, unsupervised and reinforcement."
+    },
+    {
+      "number": "01",
+      "title": "Lec-37\uff1a Supervised, Unsupervised and Reinforcement Learning in Artificial Intelligence in Hindi [4dwsSz_fNSQ]",
+      "start": 533.0,
+      "end": 537.0,
+      "text": " We use Q learning method in reinforcement. There are many algorithms."
+    },
+    {
+      "number": "01",
+      "title": "Lec-37\uff1a Supervised, Unsupervised and Reinforcement Learning in Artificial Intelligence in Hindi [4dwsSz_fNSQ]",
+      "start": 537.0,
+      "end": 542.0,
+      "text": " But if you implement so many algorithms, you can implement them by using Python,"
+    },
+    {
+      "number": "01",
+      "title": "Lec-37\uff1a Supervised, Unsupervised and Reinforcement Learning in Artificial Intelligence in Hindi [4dwsSz_fNSQ]",
+      "start": 542.0,
+      "end": 547.0,
+      "text": " you can implement them on MATLAB and through R programming, you can implement them."
+    },
+    {
+      "number": "01",
+      "title": "Lec-37\uff1a Supervised, Unsupervised and Reinforcement Learning in Artificial Intelligence in Hindi [4dwsSz_fNSQ]",
+      "start": 547.0,
+      "end": 548.0,
+      "text": " Thank you."
+    },
+    {
+      "number": "01",
+      "title": "Lec-37\uff1a Supervised, Unsupervised and Reinforcement Learning in Artificial Intelligence in Hindi [4dwsSz_fNSQ]",
+      "start": 558.0,
+      "end": 559.0,
+      "text": " Thank you."
+    }
+  ]
+}
