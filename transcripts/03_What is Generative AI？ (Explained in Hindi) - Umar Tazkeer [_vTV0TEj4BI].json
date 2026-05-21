@@ -1,5 +1,5 @@
 {
-  "text": " Welcome back guys. Today's talk is about AI. There is one more term that many people are discussing. That is basically Generative AI. In today's video, we will try to understand what Generative AI is. And in today's time, we will talk about ChatGbT or Google bar. How it works with the help of Generative AI. So, first of all, we will try to understand what AI is and then try to understand what Generative AI is. If I talk about Artificial Intelligence, what is Artificial Intelligence? Whenever you want to make systems or machines intelligent, you want to develop intelligence in them. That is basically Artificial Intelligence. Now, how does this happen? This happens through machine learning or deep learning. So, if I want to make you an explanatory model of this type, first of all, we have AI. After that, we have machine learning and deep learning is what happens in machine learning. And deep learning and machine learning is used by Generative AI. So, in today's time, when we are talking about Generative AI, it is basically using machine learning models and deep learning models and providing you with the outputs. So, Artificial Intelligence is done by machine learning and deep learning. Machine learning or deep learning is basically training systems on past data. Now, here comes another question that you should talk about two ways of AI. Let's talk about a normal traditional AI that we have seen here with the diagram that we have AI here. If we talk about it, we have machine learning. After that, if we talk about it, we have deep learning. So, how is the traditional AI, how is the generative AI that we are talking about today or the applications of Generative AI that we are talking about today? In which a very common example is the chart GPD or Google bar. So, how is our traditional AI different from the traditional AI? Generative AI, as you know from the name, can generate AI, right? Can generate text, can generate images, can generate videos, can generate sound, can generate all these things. That is basically Generative AI. So, what is Normal AI? Normal AI means that it provides some outputs on the basis of some inputs. And the output depends on this thing that what will the traditional or normal AI do? Will it predict? Will it classify? Or will it cluster? It will not generate. But the Generative AI generates. Now, Generative AI also works on different models. If I talk about two most popular models, then one is LLM, which is also the most. Because on this, the chart GPD and Google bar are based. Now, who uses the model in the chart GPD LLM? This is a different thing. Or Google uses the model of LLM. Or uses the model of Microsoft LLM. Or the model of Meta, that is Facebook uses the model of LLM. Because LLM means Large Language Model. Means such a model that runs over a lot of data. So, who has a lot of data? Who has data? Like these, they have Google, Microsoft, Meta. So, these platforms can develop their own Large Language Model, LLM. I will tell you the name specifically. What is the name of Google's LLM Model? What is the name of Microsoft's LLM Model? And what is the name of Meta's LLM Model? Similarly, Generative AI works on another model which is image based. But it is not much. Because most of the application part that you see is based on LLM Model, which is Large Language Model. We will try to understand in more detail what the meaning of Large Language Model is. Here, you see Large Language Models are trained with immense amount of data. We understood this because the foundation of AI is based on this. That there will be a lot of data and on the basis of that, machines will be made intelligent, they will be learned. So, LLM's are trained with immense amount of data and uses self-supervised learning. Now, in two more terms, that uses self-supervised learning to predict the next token. In a sentence given the surrounding context. The phrase that we provide is given the surrounding context. So, what does this mean? Large Language Models are trained on a very heavy amount of data. So, how much amount of data do people have? As you have told, Google has, Microsoft has, Meta has a lot of data. So, they have developed their LLMs. There are different names of LLMs and their technicalities are different. What are the specific LLMs and their logos? We will not go into detail in that. But LLMs are trained with immense amount of data and uses self-supervised learning. Self-supervised learning means that there are machine learning algorithms to analyze inputs to predict outputs. That is basically self-supervised learning. To predict the next token, token means sequence of characters in some particular document that are grouped together as a useful semantic unit for processing. For example, if I write a statement, let's say this is Umar. If I write this statement, this is called as a token. If you see this is a token, this is a token. A token is a sequence of characters in some particular document that are grouped together as a useful semantic unit for processing. So, this is a useful semantic meaningful unit for processing. So, I believe that you have understood that what is the difference between generative AI and normal AI? There is no difference between generative AI and normal AI. Based on some inputs, it can predict, classify, cluster. But why is generative AI unique? Because it can generate new things. Based on the previous data that it learned on its basis, it generates on its basis. But it can generate, right? So, if I want to be more specific, if I want to understand its application part, then what can generative AI do? Everything that can do chat, GPD, Google Bards, can do generative AI. For example, like conversational chat boards, chat GPD, you feel that you are talking to a person. That is a very powerful use case of generative AI. Generative text for various purposes. You have to write for blogs, for emails, you have to generate text. You have to generate text for articles, for brochures, for essays, for documents, for applications. There can be n number of reasons. You have to generate images and so on. So, that is also an example of generative AI. Similarly, analyzing your emails and making it a summary. Similarly, analyzing a paragraph and making it a summary. Similarly, analyzing a book and making it a summary. These all are the use cases of generative AI. Similarly, analyzing your data and making some predictions, you can give some forecasting. That is generative AI. You can write code for you in different languages. Like if you want to write Python code, you can write C++ code. You have to write code for any language. That generative AI can do. So, I believe that you are getting a lot of coins in terms of today's time. AI talks a lot. Technically, people talk a lot about it. But again, this topic is a topic of machine learning, deep learning or data science. If you want to understand in a broad sense. So, this topic of data science is generative AI or AI. But because there is a lot of discussion about it and you are learning all this as a digital marketer. So, some terminologies, some basic fundamentals you should know. What does artificial intelligence mean? What does generative AI mean? What does machine learning mean? What does LLMs mean? What is the processing of LLMs? How do they work? That again is a very technical, very separate topic. I believe you have learned a lot from this part of the video. That's all for this part of the video. Till then, till then, goodbye.",
+  "text": " Welcome back guys. Today's talk is about AI. There is one more term that many people are discussing. That is basically Generative AI. In today's video, we will try to understand what Generative AI is. And in today's time, we will talk about ChatGbT or Google bar. How it works with the help of Generative AI. So, first of all, we will try to understand what AI is and then try to understand what Generative AI is. If I talk about Artificial Intelligence, what is Artificial Intelligence? Whenever you want to make systems or machines intelligent, you want to develop intelligence in them. That is basically Artificial Intelligence. Now, how does this happen? This happens through machine learning or deep learning. So, if I want to make you an explanatory model of this type, first of all, we have AI. After that, we have machine learning and deep learning is what happens in machine learning. And deep learning and machine learning is used by Generative AI. So, in today's time, when we are talking about Generative AI, it is basically using machine learning models and deep learning models and providing you with the outputs. So, Artificial Intelligence is done by machine learning and deep learning. Machine learning or deep learning is basically training systems on past data. Now, here comes another question that you should talk about two ways of AI. Let's talk about a normal traditional AI that we have seen here with the diagram that we have AI here. If we talk about it, we have machine learning. After that, if we talk about it, we have deep learning. So, how is the traditional AI, how is the generative AI that we are talking about today or the applications of Generative AI that we are talking about today? In which a very common example is the chart GPD or Google bar. So, how is our traditional AI different from the traditional AI? Generative AI, as you know from the name, can generate AI, right? Can generate text, can generate images, can generate videos, can generate sound, can generate all these things. That is basically Generative AI. So, what is Normal AI? Normal AI means that it provides some outputs on the basis of some inputs. And the output depends on this thing that what will the traditional or normal AI do? Will it predict? Will it classify? Or will it cluster? It will not generate. But the Generative AI generates. Now, Generative AI also works on different models. If I talk about two most popular models, then one is LLM, which is also the most. Because on this, the chart GPD and Google bar are based. Now, who uses the model in the chart GPD LLM? This is a different thing. Or Google uses the model of LLM. Or uses the model of Microsoft LLM. Or the model of Meta, that is Facebook uses the model of LLM. Because LLM means Large Language Model. Means such a model that runs over a lot of data. So, who has a lot of data? Who has? Like these, they have Google, Microsoft, Meta. So, these platforms can develop their own Large Language Model, that is LLM. I will tell you their names specifically. What is the name of Google's LLM Model? What is the name of Microsoft's LLM Model? And what is the name of Meta's LLM Model? Similarly, Generative AI works on another model, which is image based. But it is not much. Because most of the application part, which you see, is based on LLM Model, which is Large Language Model. We will try to understand in more detail what the meaning of Large Language Model is. Here, you see, Large Language Models are trained with immense amount of data. We understood this because the foundation of AI is based on this. That there will be a lot of data and on the basis of that, machines will be made intelligent, they will be learned. So, LLM's are trained with immense amount of data and uses self-supervised learning. Now, in two more terms, that uses self-supervised learning to predict the next token. In a sentence given the surrounding context. The phrase we provide, that is given the surrounding context. So, what does this mean? Large Language Models are trained on a very heavy amount of data. So, how much amount of data do people have? As you have told, Google has, Microsoft has, Meta has a lot of data. So, they have developed their LLMs. There are different names of LLMs, then their technicalities are different. How do they work with specific LLMs, how do their logos work? We will not go into detail in that. But LLMs are trained with immense amount of data and uses self-supervised learning. Self-supervised learning means that there are machine learning algorithms to analyze inputs to predict outputs. That is basically self-supervised learning. To predict the next token, token means sequence of characters in some particular document that are grouped together as a useful semantic unit for processing. So, for example, if I write a statement, let's say this is Umar, this is called as a token. If you look at this, this is a token, this is a token. A token is a sequence of characters in some particular document that are grouped together as a useful semantic unit for processing. So, this is a useful semantic meaningful unit for processing. So, I believe that you have understood that what is the difference between generative AI and normal AI? It cannot generate anything. It can predict some inputs, classify, cluster based on some inputs. But why is generative AI unique? Because it can generate new things. Based on the previous data that it learned on its basis, it generates it on its basis. But it can generate, right? So, if I want to be more specific, if I want to understand its application part, then what can generative AI do? Everything that can do chat, GPD, Google bar, can do it. That is the example of generative AI. For example, you feel that conversational chatbot, chat GPD is a very powerful use case of generative AI. You have to write for various purposes for blogs, emails, text, for articles, brochures, essays, documents, applications. The text that is generated for the application, there can be n number of reasons to generate images. So, those are examples of generative AI. Similarly, analyzing your emails and making it a summary. Similarly, analyzing a paragraph and making it a summary. Similarly, analyzing a book and making it a summary. These all are the use cases of generative AI. Similarly, analyzing your data and making some predictions, forecasting, you can give. That is generative AI. You can write code for you in different languages. Like if you want to write Python code, you can write C++ code. So, whatever language you want to write, that generative AI can do. So, I believe that the term that is being coined in today's time, where AI is spoken, technically people talk about it a lot. But again, this topic is the topic of machine learning, deep learning, or we call it data science, if you want to understand in a broad sense. So, this topic of data science is generative AI or AI. But because there is a lot of discussion about it and you are learning all this things as a digital marketer in many places. So, some terminologies, some basic fundamentals you should know. What does artificial intelligence mean? What does generative AI mean? What does machine learning mean? What does LLMs mean? What is the processing of LLMs? How do they work? That again is a very technical, very separate topic. I believe you have learned a lot of things. I will meet you in the next video. Till then, goodbye. Thank you for watching.",
   "segments": [
     {
       "id": 0,
@@ -1201,18 +1201,17 @@
       "seek": 20300,
       "start": 203.0,
       "end": 204.0,
-      "text": " Who has data?",
+      "text": " Who has?",
       "tokens": [
         50364,
         2102,
         575,
-        1412,
         30,
         50414
       ],
-      "temperature": 0.2,
-      "avg_logprob": -0.3176230414439056,
-      "compression_ratio": 1.6946902654867257,
+      "temperature": 0.4,
+      "avg_logprob": -0.31457929611206054,
+      "compression_ratio": 1.7256637168141593,
       "no_speech_prob": 0.0491621270775795
     },
     {
@@ -1237,9 +1236,9 @@
         13,
         50614
       ],
-      "temperature": 0.2,
-      "avg_logprob": -0.3176230414439056,
-      "compression_ratio": 1.6946902654867257,
+      "temperature": 0.4,
+      "avg_logprob": -0.31457929611206054,
+      "compression_ratio": 1.7256637168141593,
       "no_speech_prob": 0.0491621270775795
     },
     {
@@ -1247,7 +1246,7 @@
       "seek": 20300,
       "start": 208.0,
       "end": 214.0,
-      "text": " So, these platforms can develop their own Large Language Model, LLM.",
+      "text": " So, these platforms can develop their own Large Language Model, that is LLM.",
       "tokens": [
         50614,
         407,
@@ -1262,15 +1261,17 @@
         24445,
         17105,
         11,
+        300,
+        307,
         441,
         43,
         44,
         13,
         50914
       ],
-      "temperature": 0.2,
-      "avg_logprob": -0.3176230414439056,
-      "compression_ratio": 1.6946902654867257,
+      "temperature": 0.4,
+      "avg_logprob": -0.31457929611206054,
+      "compression_ratio": 1.7256637168141593,
       "no_speech_prob": 0.0491621270775795
     },
     {
@@ -1278,22 +1279,22 @@
       "seek": 20300,
       "start": 214.0,
       "end": 216.0,
-      "text": " I will tell you the name specifically.",
+      "text": " I will tell you their names specifically.",
       "tokens": [
         50914,
         286,
         486,
         980,
         291,
-        264,
-        1315,
+        641,
+        5288,
         4682,
         13,
         51014
       ],
-      "temperature": 0.2,
-      "avg_logprob": -0.3176230414439056,
-      "compression_ratio": 1.6946902654867257,
+      "temperature": 0.4,
+      "avg_logprob": -0.31457929611206054,
+      "compression_ratio": 1.7256637168141593,
       "no_speech_prob": 0.0491621270775795
     },
     {
@@ -1318,9 +1319,9 @@
         30,
         51164
       ],
-      "temperature": 0.2,
-      "avg_logprob": -0.3176230414439056,
-      "compression_ratio": 1.6946902654867257,
+      "temperature": 0.4,
+      "avg_logprob": -0.31457929611206054,
+      "compression_ratio": 1.7256637168141593,
       "no_speech_prob": 0.0491621270775795
     },
     {
@@ -1345,9 +1346,9 @@
         30,
         51264
       ],
-      "temperature": 0.2,
-      "avg_logprob": -0.3176230414439056,
-      "compression_ratio": 1.6946902654867257,
+      "temperature": 0.4,
+      "avg_logprob": -0.31457929611206054,
+      "compression_ratio": 1.7256637168141593,
       "no_speech_prob": 0.0491621270775795
     },
     {
@@ -1374,9 +1375,9 @@
         30,
         51414
       ],
-      "temperature": 0.2,
-      "avg_logprob": -0.3176230414439056,
-      "compression_ratio": 1.6946902654867257,
+      "temperature": 0.4,
+      "avg_logprob": -0.31457929611206054,
+      "compression_ratio": 1.7256637168141593,
       "no_speech_prob": 0.0491621270775795
     },
     {
@@ -1384,7 +1385,7 @@
       "seek": 20300,
       "start": 224.0,
       "end": 228.0,
-      "text": " Similarly, Generative AI works on another model which is image based.",
+      "text": " Similarly, Generative AI works on another model, which is image based.",
       "tokens": [
         51414,
         13157,
@@ -1396,6 +1397,7 @@
         322,
         1071,
         2316,
+        11,
         597,
         307,
         3256,
@@ -1403,9 +1405,9 @@
         13,
         51614
       ],
-      "temperature": 0.2,
-      "avg_logprob": -0.3176230414439056,
-      "compression_ratio": 1.6946902654867257,
+      "temperature": 0.4,
+      "avg_logprob": -0.31457929611206054,
+      "compression_ratio": 1.7256637168141593,
       "no_speech_prob": 0.0491621270775795
     },
     {
@@ -1424,9 +1426,9 @@
         13,
         51714
       ],
-      "temperature": 0.2,
-      "avg_logprob": -0.3176230414439056,
-      "compression_ratio": 1.6946902654867257,
+      "temperature": 0.4,
+      "avg_logprob": -0.31457929611206054,
+      "compression_ratio": 1.7256637168141593,
       "no_speech_prob": 0.0491621270775795
     },
     {
@@ -1434,7 +1436,7 @@
       "seek": 23000,
       "start": 230.0,
       "end": 236.0,
-      "text": " Because most of the application part that you see is based on LLM Model, which is Large Language Model.",
+      "text": " Because most of the application part, which you see, is based on LLM Model, which is Large Language Model.",
       "tokens": [
         50364,
         1436,
@@ -1443,9 +1445,11 @@
         264,
         3861,
         644,
-        300,
+        11,
+        597,
         291,
         536,
+        11,
         307,
         2361,
         322,
@@ -1463,9 +1467,9 @@
         50664
       ],
       "temperature": 0.0,
-      "avg_logprob": -0.3094782698045083,
-      "compression_ratio": 1.8211382113821137,
-      "no_speech_prob": 0.004376938566565514
+      "avg_logprob": -0.3070403848375593,
+      "compression_ratio": 1.8373983739837398,
+      "no_speech_prob": 0.004455006215721369
     },
     {
       "id": 47,
@@ -1495,22 +1499,23 @@
         50964
       ],
       "temperature": 0.0,
-      "avg_logprob": -0.3094782698045083,
-      "compression_ratio": 1.8211382113821137,
-      "no_speech_prob": 0.004376938566565514
+      "avg_logprob": -0.3070403848375593,
+      "compression_ratio": 1.8373983739837398,
+      "no_speech_prob": 0.004455006215721369
     },
     {
       "id": 48,
       "seek": 23000,
       "start": 242.0,
       "end": 247.0,
-      "text": " Here, you see Large Language Models are trained with immense amount of data.",
+      "text": " Here, you see, Large Language Models are trained with immense amount of data.",
       "tokens": [
         50964,
         1692,
         11,
         291,
         536,
+        11,
         33092,
         24445,
         6583,
@@ -1526,9 +1531,9 @@
         51214
       ],
       "temperature": 0.0,
-      "avg_logprob": -0.3094782698045083,
-      "compression_ratio": 1.8211382113821137,
-      "no_speech_prob": 0.004376938566565514
+      "avg_logprob": -0.3070403848375593,
+      "compression_ratio": 1.8373983739837398,
+      "no_speech_prob": 0.004455006215721369
     },
     {
       "id": 49,
@@ -1554,9 +1559,9 @@
         51414
       ],
       "temperature": 0.0,
-      "avg_logprob": -0.3094782698045083,
-      "compression_ratio": 1.8211382113821137,
-      "no_speech_prob": 0.004376938566565514
+      "avg_logprob": -0.3070403848375593,
+      "compression_ratio": 1.8373983739837398,
+      "no_speech_prob": 0.004455006215721369
     },
     {
       "id": 50,
@@ -1584,9 +1589,9 @@
         51564
       ],
       "temperature": 0.0,
-      "avg_logprob": -0.3094782698045083,
-      "compression_ratio": 1.8211382113821137,
-      "no_speech_prob": 0.004376938566565514
+      "avg_logprob": -0.3070403848375593,
+      "compression_ratio": 1.8373983739837398,
+      "no_speech_prob": 0.004455006215721369
     },
     {
       "id": 51,
@@ -1610,9 +1615,9 @@
         51714
       ],
       "temperature": 0.0,
-      "avg_logprob": -0.3094782698045083,
-      "compression_ratio": 1.8211382113821137,
-      "no_speech_prob": 0.004376938566565514
+      "avg_logprob": -0.3070403848375593,
+      "compression_ratio": 1.8373983739837398,
+      "no_speech_prob": 0.004455006215721369
     },
     {
       "id": 52,
@@ -1646,9 +1651,9 @@
         50664
       ],
       "temperature": 0.0,
-      "avg_logprob": -0.24565425672029195,
-      "compression_ratio": 1.7476190476190476,
-      "no_speech_prob": 0.01183259580284357
+      "avg_logprob": -0.24278389139378326,
+      "compression_ratio": 1.7523809523809524,
+      "no_speech_prob": 0.011038573458790779
     },
     {
       "id": 53,
@@ -1681,9 +1686,9 @@
         51014
       ],
       "temperature": 0.0,
-      "avg_logprob": -0.24565425672029195,
-      "compression_ratio": 1.7476190476190476,
-      "no_speech_prob": 0.01183259580284357
+      "avg_logprob": -0.24278389139378326,
+      "compression_ratio": 1.7523809523809524,
+      "no_speech_prob": 0.011038573458790779
     },
     {
       "id": 54,
@@ -1704,23 +1709,24 @@
         51214
       ],
       "temperature": 0.0,
-      "avg_logprob": -0.24565425672029195,
-      "compression_ratio": 1.7476190476190476,
-      "no_speech_prob": 0.01183259580284357
+      "avg_logprob": -0.24278389139378326,
+      "compression_ratio": 1.7523809523809524,
+      "no_speech_prob": 0.011038573458790779
     },
     {
       "id": 55,
       "seek": 25700,
       "start": 274.0,
       "end": 278.0,
-      "text": " The phrase that we provide is given the surrounding context.",
+      "text": " The phrase we provide, that is given the surrounding context.",
       "tokens": [
         51214,
         440,
         9535,
-        300,
         321,
         2893,
+        11,
+        300,
         307,
         2212,
         264,
@@ -1730,16 +1736,16 @@
         51414
       ],
       "temperature": 0.0,
-      "avg_logprob": -0.24565425672029195,
-      "compression_ratio": 1.7476190476190476,
-      "no_speech_prob": 0.01183259580284357
+      "avg_logprob": -0.24278389139378326,
+      "compression_ratio": 1.7523809523809524,
+      "no_speech_prob": 0.011038573458790779
     },
     {
       "id": 56,
       "seek": 25700,
       "start": 278.0,
-      "end": 280.0,
-      "text": " So, what does this mean?",
+      "end": 284.0,
+      "text": " So, what does this mean? Large Language Models are trained on a very heavy amount of data.",
       "tokens": [
         51414,
         407,
@@ -1749,21 +1755,6 @@
         341,
         914,
         30,
-        51514
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.24565425672029195,
-      "compression_ratio": 1.7476190476190476,
-      "no_speech_prob": 0.01183259580284357
-    },
-    {
-      "id": 57,
-      "seek": 25700,
-      "start": 280.0,
-      "end": 284.0,
-      "text": " Large Language Models are trained on a very heavy amount of data.",
-      "tokens": [
-        51514,
         33092,
         24445,
         6583,
@@ -1781,12 +1772,12 @@
         51714
       ],
       "temperature": 0.0,
-      "avg_logprob": -0.24565425672029195,
-      "compression_ratio": 1.7476190476190476,
-      "no_speech_prob": 0.01183259580284357
+      "avg_logprob": -0.24278389139378326,
+      "compression_ratio": 1.7523809523809524,
+      "no_speech_prob": 0.011038573458790779
     },
     {
-      "id": 58,
+      "id": 57,
       "seek": 28400,
       "start": 284.0,
       "end": 287.0,
@@ -1807,12 +1798,12 @@
         50514
       ],
       "temperature": 0.0,
-      "avg_logprob": -0.33243522644042967,
-      "compression_ratio": 1.6566523605150214,
-      "no_speech_prob": 0.0072694276459515095
+      "avg_logprob": -0.33150094130943564,
+      "compression_ratio": 1.6504065040650406,
+      "no_speech_prob": 0.00619913125410676
     },
     {
-      "id": 59,
+      "id": 58,
       "seek": 28400,
       "start": 287.0,
       "end": 293.0,
@@ -1841,12 +1832,12 @@
         50814
       ],
       "temperature": 0.0,
-      "avg_logprob": -0.33243522644042967,
-      "compression_ratio": 1.6566523605150214,
-      "no_speech_prob": 0.0072694276459515095
+      "avg_logprob": -0.33150094130943564,
+      "compression_ratio": 1.6504065040650406,
+      "no_speech_prob": 0.00619913125410676
     },
     {
-      "id": 60,
+      "id": 59,
       "seek": 28400,
       "start": 293.0,
       "end": 296.0,
@@ -1866,16 +1857,16 @@
         50964
       ],
       "temperature": 0.0,
-      "avg_logprob": -0.33243522644042967,
-      "compression_ratio": 1.6566523605150214,
-      "no_speech_prob": 0.0072694276459515095
+      "avg_logprob": -0.33150094130943564,
+      "compression_ratio": 1.6504065040650406,
+      "no_speech_prob": 0.00619913125410676
     },
     {
-      "id": 61,
+      "id": 60,
       "seek": 28400,
       "start": 296.0,
       "end": 299.0,
-      "text": " There are different names of LLMs and their technicalities are different.",
+      "text": " There are different names of LLMs, then their technicalities are different.",
       "tokens": [
         50964,
         821,
@@ -1886,7 +1877,8 @@
         441,
         43,
         26386,
-        293,
+        11,
+        550,
         641,
         6191,
         1088,
@@ -1896,38 +1888,43 @@
         51114
       ],
       "temperature": 0.0,
-      "avg_logprob": -0.33243522644042967,
-      "compression_ratio": 1.6566523605150214,
-      "no_speech_prob": 0.0072694276459515095
+      "avg_logprob": -0.33150094130943564,
+      "compression_ratio": 1.6504065040650406,
+      "no_speech_prob": 0.00619913125410676
     },
     {
-      "id": 62,
+      "id": 61,
       "seek": 28400,
       "start": 299.0,
       "end": 304.0,
-      "text": " What are the specific LLMs and their logos?",
+      "text": " How do they work with specific LLMs, how do their logos work?",
       "tokens": [
         51114,
-        708,
-        366,
-        264,
+        1012,
+        360,
+        436,
+        589,
+        365,
         2685,
         441,
         43,
         26386,
-        293,
+        11,
+        577,
+        360,
         641,
         40654,
+        589,
         30,
         51364
       ],
       "temperature": 0.0,
-      "avg_logprob": -0.33243522644042967,
-      "compression_ratio": 1.6566523605150214,
-      "no_speech_prob": 0.0072694276459515095
+      "avg_logprob": -0.33150094130943564,
+      "compression_ratio": 1.6504065040650406,
+      "no_speech_prob": 0.00619913125410676
     },
     {
-      "id": 63,
+      "id": 62,
       "seek": 28400,
       "start": 304.0,
       "end": 306.0,
@@ -1946,12 +1943,12 @@
         51464
       ],
       "temperature": 0.0,
-      "avg_logprob": -0.33243522644042967,
-      "compression_ratio": 1.6566523605150214,
-      "no_speech_prob": 0.0072694276459515095
+      "avg_logprob": -0.33150094130943564,
+      "compression_ratio": 1.6504065040650406,
+      "no_speech_prob": 0.00619913125410676
     },
     {
-      "id": 64,
+      "id": 63,
       "seek": 28400,
       "start": 306.0,
       "end": 310.0,
@@ -1980,12 +1977,12 @@
         51664
       ],
       "temperature": 0.0,
-      "avg_logprob": -0.33243522644042967,
-      "compression_ratio": 1.6566523605150214,
-      "no_speech_prob": 0.0072694276459515095
+      "avg_logprob": -0.33150094130943564,
+      "compression_ratio": 1.6504065040650406,
+      "no_speech_prob": 0.00619913125410676
     },
     {
-      "id": 65,
+      "id": 64,
       "seek": 31000,
       "start": 310.0,
       "end": 317.0,
@@ -2014,12 +2011,12 @@
         50714
       ],
       "temperature": 0.0,
-      "avg_logprob": -0.19104078627124274,
-      "compression_ratio": 1.7258064516129032,
-      "no_speech_prob": 0.30291786789894104
+      "avg_logprob": -0.19318528227753692,
+      "compression_ratio": 1.6735537190082646,
+      "no_speech_prob": 0.2786330282688141
     },
     {
-      "id": 66,
+      "id": 65,
       "seek": 31000,
       "start": 317.0,
       "end": 320.0,
@@ -2038,12 +2035,12 @@
         50864
       ],
       "temperature": 0.0,
-      "avg_logprob": -0.19104078627124274,
-      "compression_ratio": 1.7258064516129032,
-      "no_speech_prob": 0.30291786789894104
+      "avg_logprob": -0.19318528227753692,
+      "compression_ratio": 1.6735537190082646,
+      "no_speech_prob": 0.2786330282688141
     },
     {
-      "id": 67,
+      "id": 66,
       "seek": 31000,
       "start": 320.0,
       "end": 329.0,
@@ -2080,19 +2077,21 @@
         51314
       ],
       "temperature": 0.0,
-      "avg_logprob": -0.19104078627124274,
-      "compression_ratio": 1.7258064516129032,
-      "no_speech_prob": 0.30291786789894104
+      "avg_logprob": -0.19318528227753692,
+      "compression_ratio": 1.6735537190082646,
+      "no_speech_prob": 0.2786330282688141
     },
     {
-      "id": 68,
+      "id": 67,
       "seek": 31000,
       "start": 329.0,
-      "end": 333.0,
-      "text": " For example, if I write a statement, let's say this is Umar.",
+      "end": 336.0,
+      "text": " So, for example, if I write a statement, let's say this is Umar, this is called as a token.",
       "tokens": [
         51314,
-        1171,
+        407,
+        11,
+        337,
         1365,
         11,
         498,
@@ -2108,27 +2107,6 @@
         307,
         3301,
         289,
-        13,
-        51514
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.19104078627124274,
-      "compression_ratio": 1.7258064516129032,
-      "no_speech_prob": 0.30291786789894104
-    },
-    {
-      "id": 69,
-      "seek": 31000,
-      "start": 333.0,
-      "end": 336.0,
-      "text": " If I write this statement, this is called as a token.",
-      "tokens": [
-        51514,
-        759,
-        286,
-        2464,
-        341,
-        5629,
         11,
         341,
         307,
@@ -2140,21 +2118,24 @@
         51664
       ],
       "temperature": 0.0,
-      "avg_logprob": -0.19104078627124274,
-      "compression_ratio": 1.7258064516129032,
-      "no_speech_prob": 0.30291786789894104
+      "avg_logprob": -0.19318528227753692,
+      "compression_ratio": 1.6735537190082646,
+      "no_speech_prob": 0.2786330282688141
     },
     {
-      "id": 70,
+      "id": 68,
       "seek": 33600,
       "start": 336.0,
       "end": 339.0,
-      "text": " If you see this is a token, this is a token.",
+      "text": " If you look at this, this is a token, this is a token.",
       "tokens": [
         50364,
         759,
         291,
-        536,
+        574,
+        412,
+        341,
+        11,
         341,
         307,
         257,
@@ -2168,12 +2149,12 @@
         50514
       ],
       "temperature": 0.0,
-      "avg_logprob": -0.2911579759815071,
-      "compression_ratio": 1.736040609137056,
-      "no_speech_prob": 0.06463193893432617
+      "avg_logprob": -0.28661272002429494,
+      "compression_ratio": 1.7425742574257426,
+      "no_speech_prob": 0.09507591277360916
     },
     {
-      "id": 71,
+      "id": 69,
       "seek": 33600,
       "start": 339.0,
       "end": 350.0,
@@ -2206,12 +2187,12 @@
         51064
       ],
       "temperature": 0.0,
-      "avg_logprob": -0.2911579759815071,
-      "compression_ratio": 1.736040609137056,
-      "no_speech_prob": 0.06463193893432617
+      "avg_logprob": -0.28661272002429494,
+      "compression_ratio": 1.7425742574257426,
+      "no_speech_prob": 0.09507591277360916
     },
     {
-      "id": 72,
+      "id": 70,
       "seek": 33600,
       "start": 350.0,
       "end": 354.0,
@@ -2233,12 +2214,12 @@
         51264
       ],
       "temperature": 0.0,
-      "avg_logprob": -0.2911579759815071,
-      "compression_ratio": 1.736040609137056,
-      "no_speech_prob": 0.06463193893432617
+      "avg_logprob": -0.28661272002429494,
+      "compression_ratio": 1.7425742574257426,
+      "no_speech_prob": 0.09507591277360916
     },
     {
-      "id": 73,
+      "id": 71,
       "seek": 33600,
       "start": 354.0,
       "end": 362.0,
@@ -2269,71 +2250,50 @@
         51664
       ],
       "temperature": 0.0,
-      "avg_logprob": -0.2911579759815071,
-      "compression_ratio": 1.736040609137056,
-      "no_speech_prob": 0.06463193893432617
+      "avg_logprob": -0.28661272002429494,
+      "compression_ratio": 1.7425742574257426,
+      "no_speech_prob": 0.09507591277360916
     },
     {
-      "id": 74,
+      "id": 72,
       "seek": 36200,
       "start": 362.0,
-      "end": 364.0,
-      "text": " There is no difference between generative AI and normal AI.",
+      "end": 368.0,
+      "text": " It cannot generate anything. It can predict some inputs, classify, cluster based on some inputs.",
       "tokens": [
         50364,
-        821,
-        307,
-        572,
-        2649,
-        1296,
-        1337,
-        1166,
-        7318,
-        293,
-        2710,
-        7318,
+        467,
+        2644,
+        8460,
+        1340,
         13,
-        50464
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.3749611137449279,
-      "compression_ratio": 1.8250950570342206,
-      "no_speech_prob": 0.261209636926651
-    },
-    {
-      "id": 75,
-      "seek": 36200,
-      "start": 364.0,
-      "end": 368.0,
-      "text": " Based on some inputs, it can predict, classify, cluster.",
-      "tokens": [
-        50464,
-        18785,
-        322,
-        512,
-        15743,
-        11,
-        309,
+        467,
         393,
         6069,
+        512,
+        15743,
         11,
         33872,
         11,
         13630,
+        2361,
+        322,
+        512,
+        15743,
         13,
         50664
       ],
       "temperature": 0.0,
-      "avg_logprob": -0.3749611137449279,
-      "compression_ratio": 1.8250950570342206,
-      "no_speech_prob": 0.261209636926651
+      "avg_logprob": -0.3233930799696181,
+      "compression_ratio": 1.8110599078341014,
+      "no_speech_prob": 0.2929489314556122
     },
     {
-      "id": 76,
+      "id": 73,
       "seek": 36200,
       "start": 368.0,
-      "end": 370.0,
-      "text": " But why is generative AI unique?",
+      "end": 372.0,
+      "text": " But why is generative AI unique? Because it can generate new things.",
       "tokens": [
         50664,
         583,
@@ -2344,21 +2304,6 @@
         7318,
         3845,
         30,
-        50764
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.3749611137449279,
-      "compression_ratio": 1.8250950570342206,
-      "no_speech_prob": 0.261209636926651
-    },
-    {
-      "id": 77,
-      "seek": 36200,
-      "start": 370.0,
-      "end": 372.0,
-      "text": " Because it can generate new things.",
-      "tokens": [
-        50764,
         1436,
         309,
         393,
@@ -2369,16 +2314,16 @@
         50864
       ],
       "temperature": 0.0,
-      "avg_logprob": -0.3749611137449279,
-      "compression_ratio": 1.8250950570342206,
-      "no_speech_prob": 0.261209636926651
+      "avg_logprob": -0.3233930799696181,
+      "compression_ratio": 1.8110599078341014,
+      "no_speech_prob": 0.2929489314556122
     },
     {
-      "id": 78,
+      "id": 74,
       "seek": 36200,
       "start": 372.0,
       "end": 378.0,
-      "text": " Based on the previous data that it learned on its basis, it generates on its basis.",
+      "text": " Based on the previous data that it learned on its basis, it generates it on its basis.",
       "tokens": [
         50864,
         18785,
@@ -2395,6 +2340,7 @@
         11,
         309,
         23815,
+        309,
         322,
         1080,
         5143,
@@ -2402,12 +2348,12 @@
         51164
       ],
       "temperature": 0.0,
-      "avg_logprob": -0.3749611137449279,
-      "compression_ratio": 1.8250950570342206,
-      "no_speech_prob": 0.261209636926651
+      "avg_logprob": -0.3233930799696181,
+      "compression_ratio": 1.8110599078341014,
+      "no_speech_prob": 0.2929489314556122
     },
     {
-      "id": 79,
+      "id": 75,
       "seek": 36200,
       "start": 378.0,
       "end": 380.0,
@@ -2424,12 +2370,12 @@
         51264
       ],
       "temperature": 0.0,
-      "avg_logprob": -0.3749611137449279,
-      "compression_ratio": 1.8250950570342206,
-      "no_speech_prob": 0.261209636926651
+      "avg_logprob": -0.3233930799696181,
+      "compression_ratio": 1.8110599078341014,
+      "no_speech_prob": 0.2929489314556122
     },
     {
-      "id": 80,
+      "id": 76,
       "seek": 36200,
       "start": 380.0,
       "end": 385.0,
@@ -2466,18 +2412,18 @@
         51514
       ],
       "temperature": 0.0,
-      "avg_logprob": -0.3749611137449279,
-      "compression_ratio": 1.8250950570342206,
-      "no_speech_prob": 0.261209636926651
+      "avg_logprob": -0.3233930799696181,
+      "compression_ratio": 1.8110599078341014,
+      "no_speech_prob": 0.2929489314556122
     },
     {
-      "id": 81,
-      "seek": 36200,
+      "id": 77,
+      "seek": 38500,
       "start": 385.0,
-      "end": 391.0,
-      "text": " Everything that can do chat, GPD, Google Bards, can do generative AI.",
+      "end": 389.0,
+      "text": " Everything that can do chat, GPD, Google bar, can do it.",
       "tokens": [
-        51514,
+        50364,
         5471,
         300,
         393,
@@ -2488,69 +2434,65 @@
         17349,
         11,
         3329,
-        363,
-        2287,
+        2159,
         11,
         393,
         360,
+        309,
+        13,
+        50564
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.5533913013546966,
+      "compression_ratio": 1.5631067961165048,
+      "no_speech_prob": 0.7613837718963623
+    },
+    {
+      "id": 78,
+      "seek": 38500,
+      "start": 389.0,
+      "end": 391.0,
+      "text": " That is the example of generative AI.",
+      "tokens": [
+        50564,
+        663,
+        307,
+        264,
+        1365,
+        295,
         1337,
         1166,
         7318,
         13,
-        51814
+        50664
       ],
       "temperature": 0.0,
-      "avg_logprob": -0.3749611137449279,
-      "compression_ratio": 1.8250950570342206,
-      "no_speech_prob": 0.261209636926651
+      "avg_logprob": -0.5533913013546966,
+      "compression_ratio": 1.5631067961165048,
+      "no_speech_prob": 0.7613837718963623
     },
     {
-      "id": 82,
-      "seek": 39100,
+      "id": 79,
+      "seek": 38500,
       "start": 391.0,
-      "end": 396.0,
-      "text": " For example, like conversational chat boards, chat GPD, you feel that you are talking to a person.",
+      "end": 399.0,
+      "text": " For example, you feel that conversational chatbot, chat GPD is a very powerful use case of generative AI.",
       "tokens": [
-        50364,
+        50664,
         1171,
         1365,
-        11,
-        411,
-        2615,
-        1478,
-        5081,
-        13293,
-        11,
-        5081,
-        460,
-        17349,
         11,
         291,
         841,
         300,
-        291,
-        366,
-        1417,
-        281,
-        257,
-        954,
-        13,
-        50614
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.27277190344674246,
-      "compression_ratio": 1.7685950413223142,
-      "no_speech_prob": 0.18225151300430298
-    },
-    {
-      "id": 83,
-      "seek": 39100,
-      "start": 396.0,
-      "end": 399.0,
-      "text": " That is a very powerful use case of generative AI.",
-      "tokens": [
-        50614,
-        663,
+        2615,
+        1478,
+        5081,
+        18870,
+        11,
+        5081,
+        460,
+        17349,
         307,
         257,
         588,
@@ -2562,184 +2504,122 @@
         1166,
         7318,
         13,
-        50764
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.27277190344674246,
-      "compression_ratio": 1.7685950413223142,
-      "no_speech_prob": 0.18225151300430298
-    },
-    {
-      "id": 84,
-      "seek": 39100,
-      "start": 399.0,
-      "end": 401.0,
-      "text": " Generative text for various purposes.",
-      "tokens": [
-        50764,
-        15409,
-        1166,
-        2487,
-        337,
-        3683,
-        9932,
-        13,
-        50864
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.27277190344674246,
-      "compression_ratio": 1.7685950413223142,
-      "no_speech_prob": 0.18225151300430298
-    },
-    {
-      "id": 85,
-      "seek": 39100,
-      "start": 401.0,
-      "end": 405.0,
-      "text": " You have to write for blogs, for emails, you have to generate text.",
-      "tokens": [
-        50864,
-        509,
-        362,
-        281,
-        2464,
-        337,
-        31038,
-        11,
-        337,
-        12524,
-        11,
-        291,
-        362,
-        281,
-        8460,
-        2487,
-        13,
         51064
       ],
       "temperature": 0.0,
-      "avg_logprob": -0.27277190344674246,
-      "compression_ratio": 1.7685950413223142,
-      "no_speech_prob": 0.18225151300430298
+      "avg_logprob": -0.5533913013546966,
+      "compression_ratio": 1.5631067961165048,
+      "no_speech_prob": 0.7613837718963623
     },
     {
-      "id": 86,
-      "seek": 39100,
-      "start": 405.0,
-      "end": 416.0,
-      "text": " You have to generate text for articles, for brochures, for essays, for documents, for applications.",
+      "id": 80,
+      "seek": 38500,
+      "start": 399.0,
+      "end": 414.0,
+      "text": " You have to write for various purposes for blogs, emails, text, for articles, brochures, essays, documents, applications.",
       "tokens": [
         51064,
         509,
         362,
         281,
-        8460,
+        2464,
+        337,
+        3683,
+        9932,
+        337,
+        31038,
+        11,
+        12524,
+        11,
         2487,
+        11,
         337,
         11290,
         11,
-        337,
         48147,
         1303,
         11,
-        337,
         35123,
         11,
-        337,
         8512,
         11,
-        337,
         5821,
         13,
-        51614
+        51814
       ],
       "temperature": 0.0,
-      "avg_logprob": -0.27277190344674246,
-      "compression_ratio": 1.7685950413223142,
-      "no_speech_prob": 0.18225151300430298
+      "avg_logprob": -0.5533913013546966,
+      "compression_ratio": 1.5631067961165048,
+      "no_speech_prob": 0.7613837718963623
     },
     {
-      "id": 87,
-      "seek": 39100,
-      "start": 416.0,
-      "end": 418.0,
-      "text": " There can be n number of reasons.",
+      "id": 81,
+      "seek": 41400,
+      "start": 414.0,
+      "end": 420.0,
+      "text": " The text that is generated for the application, there can be n number of reasons to generate images.",
       "tokens": [
-        51614,
-        821,
+        50364,
+        440,
+        2487,
+        300,
+        307,
+        10833,
+        337,
+        264,
+        3861,
+        11,
+        456,
         393,
         312,
         297,
         1230,
         295,
         4112,
-        13,
-        51714
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.27277190344674246,
-      "compression_ratio": 1.7685950413223142,
-      "no_speech_prob": 0.18225151300430298
-    },
-    {
-      "id": 88,
-      "seek": 39100,
-      "start": 418.0,
-      "end": 420.0,
-      "text": " You have to generate images and so on.",
-      "tokens": [
-        51714,
-        509,
-        362,
         281,
         8460,
         5267,
-        293,
-        370,
-        322,
         13,
-        51814
+        50664
       ],
       "temperature": 0.0,
-      "avg_logprob": -0.27277190344674246,
-      "compression_ratio": 1.7685950413223142,
-      "no_speech_prob": 0.18225151300430298
+      "avg_logprob": -0.26949960535222833,
+      "compression_ratio": 2.0112994350282487,
+      "no_speech_prob": 0.10125965625047684
     },
     {
-      "id": 89,
-      "seek": 42000,
+      "id": 82,
+      "seek": 41400,
       "start": 420.0,
       "end": 424.0,
-      "text": " So, that is also an example of generative AI.",
+      "text": " So, those are examples of generative AI.",
       "tokens": [
-        50364,
+        50664,
         407,
         11,
-        300,
-        307,
-        611,
-        364,
-        1365,
+        729,
+        366,
+        5110,
         295,
         1337,
         1166,
         7318,
         13,
-        50564
+        50864
       ],
       "temperature": 0.0,
-      "avg_logprob": -0.28449431131052416,
-      "compression_ratio": 2.1666666666666665,
-      "no_speech_prob": 0.058553460985422134
+      "avg_logprob": -0.26949960535222833,
+      "compression_ratio": 2.0112994350282487,
+      "no_speech_prob": 0.10125965625047684
     },
     {
-      "id": 90,
-      "seek": 42000,
+      "id": 83,
+      "seek": 41400,
       "start": 424.0,
       "end": 428.0,
       "text": " Similarly, analyzing your emails and making it a summary.",
       "tokens": [
-        50564,
+        50864,
         13157,
         11,
         23663,
@@ -2751,21 +2631,21 @@
         257,
         12691,
         13,
-        50764
+        51064
       ],
       "temperature": 0.0,
-      "avg_logprob": -0.28449431131052416,
-      "compression_ratio": 2.1666666666666665,
-      "no_speech_prob": 0.058553460985422134
+      "avg_logprob": -0.26949960535222833,
+      "compression_ratio": 2.0112994350282487,
+      "no_speech_prob": 0.10125965625047684
     },
     {
-      "id": 91,
-      "seek": 42000,
+      "id": 84,
+      "seek": 41400,
       "start": 428.0,
       "end": 432.0,
       "text": " Similarly, analyzing a paragraph and making it a summary.",
       "tokens": [
-        50764,
+        51064,
         13157,
         11,
         23663,
@@ -2777,21 +2657,21 @@
         257,
         12691,
         13,
-        50964
+        51264
       ],
       "temperature": 0.0,
-      "avg_logprob": -0.28449431131052416,
-      "compression_ratio": 2.1666666666666665,
-      "no_speech_prob": 0.058553460985422134
+      "avg_logprob": -0.26949960535222833,
+      "compression_ratio": 2.0112994350282487,
+      "no_speech_prob": 0.10125965625047684
     },
     {
-      "id": 92,
-      "seek": 42000,
+      "id": 85,
+      "seek": 41400,
       "start": 432.0,
       "end": 435.0,
       "text": " Similarly, analyzing a book and making it a summary.",
       "tokens": [
-        50964,
+        51264,
         13157,
         11,
         23663,
@@ -2803,21 +2683,21 @@
         257,
         12691,
         13,
-        51114
+        51414
       ],
       "temperature": 0.0,
-      "avg_logprob": -0.28449431131052416,
-      "compression_ratio": 2.1666666666666665,
-      "no_speech_prob": 0.058553460985422134
+      "avg_logprob": -0.26949960535222833,
+      "compression_ratio": 2.0112994350282487,
+      "no_speech_prob": 0.10125965625047684
     },
     {
-      "id": 93,
-      "seek": 42000,
+      "id": 86,
+      "seek": 41400,
       "start": 435.0,
       "end": 438.0,
       "text": " These all are the use cases of generative AI.",
       "tokens": [
-        51114,
+        51414,
         1981,
         439,
         366,
@@ -2829,21 +2709,21 @@
         1166,
         7318,
         13,
-        51264
+        51564
       ],
       "temperature": 0.0,
-      "avg_logprob": -0.28449431131052416,
-      "compression_ratio": 2.1666666666666665,
-      "no_speech_prob": 0.058553460985422134
+      "avg_logprob": -0.26949960535222833,
+      "compression_ratio": 2.0112994350282487,
+      "no_speech_prob": 0.10125965625047684
     },
     {
-      "id": 94,
-      "seek": 42000,
+      "id": 87,
+      "seek": 43800,
       "start": 438.0,
       "end": 448.0,
-      "text": " Similarly, analyzing your data and making some predictions, you can give some forecasting.",
+      "text": " Similarly, analyzing your data and making some predictions, forecasting, you can give.",
       "tokens": [
-        51264,
+        50364,
         13157,
         11,
         23663,
@@ -2854,48 +2734,48 @@
         512,
         21264,
         11,
+        44331,
+        11,
         291,
         393,
         976,
-        512,
-        44331,
         13,
-        51764
+        50864
       ],
       "temperature": 0.0,
-      "avg_logprob": -0.28449431131052416,
-      "compression_ratio": 2.1666666666666665,
-      "no_speech_prob": 0.058553460985422134
+      "avg_logprob": -0.3741212324662642,
+      "compression_ratio": 1.6462882096069869,
+      "no_speech_prob": 0.11370730400085449
     },
     {
-      "id": 95,
-      "seek": 44800,
+      "id": 88,
+      "seek": 43800,
       "start": 448.0,
       "end": 450.0,
       "text": " That is generative AI.",
       "tokens": [
-        50364,
+        50864,
         663,
         307,
         1337,
         1166,
         7318,
         13,
-        50464
+        50964
       ],
       "temperature": 0.0,
-      "avg_logprob": -0.31263092273974236,
-      "compression_ratio": 1.7323420074349443,
-      "no_speech_prob": 0.22418148815631866
+      "avg_logprob": -0.3741212324662642,
+      "compression_ratio": 1.6462882096069869,
+      "no_speech_prob": 0.11370730400085449
     },
     {
-      "id": 96,
-      "seek": 44800,
+      "id": 89,
+      "seek": 43800,
       "start": 450.0,
       "end": 452.0,
       "text": " You can write code for you in different languages.",
       "tokens": [
-        50464,
+        50964,
         509,
         393,
         2464,
@@ -2906,21 +2786,21 @@
         819,
         8650,
         13,
-        50564
+        51064
       ],
       "temperature": 0.0,
-      "avg_logprob": -0.31263092273974236,
-      "compression_ratio": 1.7323420074349443,
-      "no_speech_prob": 0.22418148815631866
+      "avg_logprob": -0.3741212324662642,
+      "compression_ratio": 1.6462882096069869,
+      "no_speech_prob": 0.11370730400085449
     },
     {
-      "id": 97,
-      "seek": 44800,
+      "id": 90,
+      "seek": 43800,
       "start": 452.0,
       "end": 457.0,
       "text": " Like if you want to write Python code, you can write C++ code.",
       "tokens": [
-        50564,
+        51064,
         1743,
         498,
         291,
@@ -2937,152 +2817,118 @@
         25472,
         3089,
         13,
-        50814
+        51314
       ],
       "temperature": 0.0,
-      "avg_logprob": -0.31263092273974236,
-      "compression_ratio": 1.7323420074349443,
-      "no_speech_prob": 0.22418148815631866
+      "avg_logprob": -0.3741212324662642,
+      "compression_ratio": 1.6462882096069869,
+      "no_speech_prob": 0.11370730400085449
     },
     {
-      "id": 98,
-      "seek": 44800,
+      "id": 91,
+      "seek": 43800,
       "start": 457.0,
-      "end": 459.0,
-      "text": " You have to write code for any language.",
+      "end": 461.0,
+      "text": " So, whatever language you want to write, that generative AI can do.",
       "tokens": [
-        50814,
-        509,
-        362,
+        51314,
+        407,
+        11,
+        2035,
+        2856,
+        291,
+        528,
         281,
         2464,
-        3089,
-        337,
-        604,
-        2856,
-        13,
-        50914
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.31263092273974236,
-      "compression_ratio": 1.7323420074349443,
-      "no_speech_prob": 0.22418148815631866
-    },
-    {
-      "id": 99,
-      "seek": 44800,
-      "start": 459.0,
-      "end": 461.0,
-      "text": " That generative AI can do.",
-      "tokens": [
-        50914,
-        663,
+        11,
+        300,
         1337,
         1166,
         7318,
         393,
         360,
         13,
-        51014
+        51514
       ],
       "temperature": 0.0,
-      "avg_logprob": -0.31263092273974236,
-      "compression_ratio": 1.7323420074349443,
-      "no_speech_prob": 0.22418148815631866
+      "avg_logprob": -0.3741212324662642,
+      "compression_ratio": 1.6462882096069869,
+      "no_speech_prob": 0.11370730400085449
     },
     {
-      "id": 100,
-      "seek": 44800,
+      "id": 92,
+      "seek": 43800,
       "start": 461.0,
-      "end": 465.0,
-      "text": " So, I believe that you are getting a lot of coins in terms of today's time.",
+      "end": 467.0,
+      "text": " So, I believe that the term that is being coined in today's time, where AI is spoken,",
       "tokens": [
-        51014,
+        51514,
         407,
         11,
         286,
         1697,
         300,
-        291,
-        366,
-        1242,
-        257,
-        688,
-        295,
-        13561,
+        264,
+        1433,
+        300,
+        307,
+        885,
+        45222,
         294,
-        2115,
-        295,
         965,
         311,
         565,
-        13,
-        51214
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.31263092273974236,
-      "compression_ratio": 1.7323420074349443,
-      "no_speech_prob": 0.22418148815631866
-    },
-    {
-      "id": 101,
-      "seek": 44800,
-      "start": 465.0,
-      "end": 467.0,
-      "text": " AI talks a lot.",
-      "tokens": [
-        51214,
+        11,
+        689,
         7318,
-        6686,
-        257,
-        688,
-        13,
-        51314
+        307,
+        10759,
+        11,
+        51814
       ],
       "temperature": 0.0,
-      "avg_logprob": -0.31263092273974236,
-      "compression_ratio": 1.7323420074349443,
-      "no_speech_prob": 0.22418148815631866
+      "avg_logprob": -0.3741212324662642,
+      "compression_ratio": 1.6462882096069869,
+      "no_speech_prob": 0.11370730400085449
     },
     {
-      "id": 102,
-      "seek": 44800,
+      "id": 93,
+      "seek": 46700,
       "start": 467.0,
       "end": 469.0,
-      "text": " Technically, people talk a lot about it.",
+      "text": " technically people talk about it a lot.",
       "tokens": [
-        51314,
-        42494,
-        11,
+        50364,
+        12120,
         561,
         751,
-        257,
-        688,
         466,
         309,
+        257,
+        688,
         13,
-        51414
+        50464
       ],
       "temperature": 0.0,
-      "avg_logprob": -0.31263092273974236,
-      "compression_ratio": 1.7323420074349443,
-      "no_speech_prob": 0.22418148815631866
+      "avg_logprob": -0.28827645348720865,
+      "compression_ratio": 1.7942238267148014,
+      "no_speech_prob": 0.01902276650071144
     },
     {
-      "id": 103,
-      "seek": 44800,
+      "id": 94,
+      "seek": 46700,
       "start": 469.0,
-      "end": 474.0,
-      "text": " But again, this topic is a topic of machine learning, deep learning or data science.",
+      "end": 476.0,
+      "text": " But again, this topic is the topic of machine learning, deep learning, or we call it data science, if you want to understand in a broad sense.",
       "tokens": [
-        51414,
+        50464,
         583,
         797,
         11,
         341,
         4829,
         307,
-        257,
+        264,
         4829,
         295,
         3479,
@@ -3090,26 +2936,15 @@
         11,
         2452,
         2539,
+        11,
         420,
+        321,
+        818,
+        309,
         1412,
         3497,
-        13,
-        51664
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.31263092273974236,
-      "compression_ratio": 1.7323420074349443,
-      "no_speech_prob": 0.22418148815631866
-    },
-    {
-      "id": 104,
-      "seek": 44800,
-      "start": 474.0,
-      "end": 476.0,
-      "text": " If you want to understand in a broad sense.",
-      "tokens": [
-        51664,
-        759,
+        11,
+        498,
         291,
         528,
         281,
@@ -3119,21 +2954,21 @@
         4152,
         2020,
         13,
-        51764
+        50814
       ],
       "temperature": 0.0,
-      "avg_logprob": -0.31263092273974236,
-      "compression_ratio": 1.7323420074349443,
-      "no_speech_prob": 0.22418148815631866
+      "avg_logprob": -0.28827645348720865,
+      "compression_ratio": 1.7942238267148014,
+      "no_speech_prob": 0.01902276650071144
     },
     {
-      "id": 105,
-      "seek": 47600,
+      "id": 95,
+      "seek": 46700,
       "start": 476.0,
       "end": 479.0,
       "text": " So, this topic of data science is generative AI or AI.",
       "tokens": [
-        50364,
+        50814,
         407,
         11,
         341,
@@ -3148,21 +2983,21 @@
         420,
         7318,
         13,
-        50514
+        50964
       ],
       "temperature": 0.0,
-      "avg_logprob": -0.20738618881976018,
-      "compression_ratio": 1.726923076923077,
-      "no_speech_prob": 0.0041038342751562595
+      "avg_logprob": -0.28827645348720865,
+      "compression_ratio": 1.7942238267148014,
+      "no_speech_prob": 0.01902276650071144
     },
     {
-      "id": 106,
-      "seek": 47600,
+      "id": 96,
+      "seek": 46700,
       "start": 479.0,
       "end": 486.0,
-      "text": " But because there is a lot of discussion about it and you are learning all this as a digital marketer.",
+      "text": " But because there is a lot of discussion about it and you are learning all this things as a digital marketer in many places.",
       "tokens": [
-        50514,
+        50964,
         583,
         570,
         456,
@@ -3179,27 +3014,31 @@
         2539,
         439,
         341,
+        721,
         382,
         257,
         4562,
         2142,
         260,
+        294,
+        867,
+        3190,
         13,
-        50864
+        51314
       ],
       "temperature": 0.0,
-      "avg_logprob": -0.20738618881976018,
-      "compression_ratio": 1.726923076923077,
-      "no_speech_prob": 0.0041038342751562595
+      "avg_logprob": -0.28827645348720865,
+      "compression_ratio": 1.7942238267148014,
+      "no_speech_prob": 0.01902276650071144
     },
     {
-      "id": 107,
-      "seek": 47600,
+      "id": 97,
+      "seek": 46700,
       "start": 486.0,
       "end": 490.0,
       "text": " So, some terminologies, some basic fundamentals you should know.",
       "tokens": [
-        50864,
+        51314,
         407,
         11,
         512,
@@ -3213,42 +3052,42 @@
         820,
         458,
         13,
-        51064
+        51514
       ],
       "temperature": 0.0,
-      "avg_logprob": -0.20738618881976018,
-      "compression_ratio": 1.726923076923077,
-      "no_speech_prob": 0.0041038342751562595
+      "avg_logprob": -0.28827645348720865,
+      "compression_ratio": 1.7942238267148014,
+      "no_speech_prob": 0.01902276650071144
     },
     {
-      "id": 108,
-      "seek": 47600,
+      "id": 98,
+      "seek": 46700,
       "start": 490.0,
       "end": 492.0,
       "text": " What does artificial intelligence mean?",
       "tokens": [
-        51064,
+        51514,
         708,
         775,
         11677,
         7599,
         914,
         30,
-        51164
+        51614
       ],
       "temperature": 0.0,
-      "avg_logprob": -0.20738618881976018,
-      "compression_ratio": 1.726923076923077,
-      "no_speech_prob": 0.0041038342751562595
+      "avg_logprob": -0.28827645348720865,
+      "compression_ratio": 1.7942238267148014,
+      "no_speech_prob": 0.01902276650071144
     },
     {
-      "id": 109,
-      "seek": 47600,
+      "id": 99,
+      "seek": 46700,
       "start": 492.0,
       "end": 494.0,
       "text": " What does generative AI mean?",
       "tokens": [
-        51164,
+        51614,
         708,
         775,
         1337,
@@ -3256,42 +3095,42 @@
         7318,
         914,
         30,
-        51264
+        51714
       ],
       "temperature": 0.0,
-      "avg_logprob": -0.20738618881976018,
-      "compression_ratio": 1.726923076923077,
-      "no_speech_prob": 0.0041038342751562595
+      "avg_logprob": -0.28827645348720865,
+      "compression_ratio": 1.7942238267148014,
+      "no_speech_prob": 0.01902276650071144
     },
     {
-      "id": 110,
-      "seek": 47600,
+      "id": 100,
+      "seek": 49400,
       "start": 494.0,
       "end": 496.0,
       "text": " What does machine learning mean?",
       "tokens": [
-        51264,
+        50364,
         708,
         775,
         3479,
         2539,
         914,
         30,
-        51364
+        50464
       ],
       "temperature": 0.0,
-      "avg_logprob": -0.20738618881976018,
-      "compression_ratio": 1.726923076923077,
-      "no_speech_prob": 0.0041038342751562595
+      "avg_logprob": -0.23235919807530656,
+      "compression_ratio": 1.4655172413793103,
+      "no_speech_prob": 0.15685975551605225
     },
     {
-      "id": 111,
-      "seek": 47600,
+      "id": 101,
+      "seek": 49400,
       "start": 496.0,
       "end": 498.0,
       "text": " What does LLMs mean?",
       "tokens": [
-        51364,
+        50464,
         708,
         775,
         441,
@@ -3299,21 +3138,21 @@
         26386,
         914,
         30,
-        51464
+        50564
       ],
       "temperature": 0.0,
-      "avg_logprob": -0.20738618881976018,
-      "compression_ratio": 1.726923076923077,
-      "no_speech_prob": 0.0041038342751562595
+      "avg_logprob": -0.23235919807530656,
+      "compression_ratio": 1.4655172413793103,
+      "no_speech_prob": 0.15685975551605225
     },
     {
-      "id": 112,
-      "seek": 47600,
+      "id": 102,
+      "seek": 49400,
       "start": 498.0,
       "end": 500.0,
       "text": " What is the processing of LLMs?",
       "tokens": [
-        51464,
+        50564,
         708,
         307,
         264,
@@ -3323,41 +3162,41 @@
         43,
         26386,
         30,
-        51564
+        50664
       ],
       "temperature": 0.0,
-      "avg_logprob": -0.20738618881976018,
-      "compression_ratio": 1.726923076923077,
-      "no_speech_prob": 0.0041038342751562595
+      "avg_logprob": -0.23235919807530656,
+      "compression_ratio": 1.4655172413793103,
+      "no_speech_prob": 0.15685975551605225
     },
     {
-      "id": 113,
-      "seek": 47600,
+      "id": 103,
+      "seek": 49400,
       "start": 500.0,
       "end": 501.0,
       "text": " How do they work?",
       "tokens": [
-        51564,
+        50664,
         1012,
         360,
         436,
         589,
         30,
-        51614
+        50714
       ],
       "temperature": 0.0,
-      "avg_logprob": -0.20738618881976018,
-      "compression_ratio": 1.726923076923077,
-      "no_speech_prob": 0.0041038342751562595
+      "avg_logprob": -0.23235919807530656,
+      "compression_ratio": 1.4655172413793103,
+      "no_speech_prob": 0.15685975551605225
     },
     {
-      "id": 114,
-      "seek": 47600,
+      "id": 104,
+      "seek": 49400,
       "start": 501.0,
       "end": 504.0,
       "text": " That again is a very technical, very separate topic.",
       "tokens": [
-        51614,
+        50714,
         663,
         797,
         307,
@@ -3369,21 +3208,21 @@
         4994,
         4829,
         13,
-        51764
+        50864
       ],
       "temperature": 0.0,
-      "avg_logprob": -0.20738618881976018,
-      "compression_ratio": 1.726923076923077,
-      "no_speech_prob": 0.0041038342751562595
+      "avg_logprob": -0.23235919807530656,
+      "compression_ratio": 1.4655172413793103,
+      "no_speech_prob": 0.15685975551605225
     },
     {
-      "id": 115,
-      "seek": 50400,
+      "id": 105,
+      "seek": 49400,
       "start": 504.0,
       "end": 506.0,
-      "text": " I believe you have learned a lot from this part of the video.",
+      "text": " I believe you have learned a lot of things.",
       "tokens": [
-        50364,
+        50864,
         286,
         1697,
         291,
@@ -3391,67 +3230,79 @@
         3264,
         257,
         688,
-        490,
-        341,
-        644,
         295,
-        264,
-        960,
+        721,
         13,
-        50464
+        50964
       ],
       "temperature": 0.0,
-      "avg_logprob": -0.41353440896058696,
-      "compression_ratio": 1.4086021505376345,
-      "no_speech_prob": 0.5808297991752625
+      "avg_logprob": -0.23235919807530656,
+      "compression_ratio": 1.4655172413793103,
+      "no_speech_prob": 0.15685975551605225
     },
     {
-      "id": 116,
-      "seek": 50400,
+      "id": 106,
+      "seek": 49400,
       "start": 506.0,
       "end": 508.0,
-      "text": " That's all for this part of the video.",
+      "text": " I will meet you in the next video.",
       "tokens": [
-        50464,
-        663,
-        311,
-        439,
-        337,
-        341,
-        644,
-        295,
+        50964,
+        286,
+        486,
+        1677,
+        291,
+        294,
         264,
+        958,
         960,
         13,
-        50564
+        51064
       ],
       "temperature": 0.0,
-      "avg_logprob": -0.41353440896058696,
-      "compression_ratio": 1.4086021505376345,
-      "no_speech_prob": 0.5808297991752625
+      "avg_logprob": -0.23235919807530656,
+      "compression_ratio": 1.4655172413793103,
+      "no_speech_prob": 0.15685975551605225
     },
     {
-      "id": 117,
-      "seek": 50400,
+      "id": 107,
+      "seek": 49400,
       "start": 508.0,
       "end": 510.0,
-      "text": " Till then, till then, goodbye.",
+      "text": " Till then, goodbye.",
       "tokens": [
-        50564,
+        51064,
         20227,
-        550,
-        11,
-        4288,
         550,
         11,
         12084,
         13,
-        50664
+        51164
       ],
       "temperature": 0.0,
-      "avg_logprob": -0.41353440896058696,
-      "compression_ratio": 1.4086021505376345,
-      "no_speech_prob": 0.5808297991752625
+      "avg_logprob": -0.23235919807530656,
+      "compression_ratio": 1.4655172413793103,
+      "no_speech_prob": 0.15685975551605225
+    },
+    {
+      "id": 108,
+      "seek": 52400,
+      "start": 524.0,
+      "end": 529.0,
+      "text": " Thank you for watching.",
+      "tokens": [
+        50364,
+        1044,
+        291,
+        337,
+        1976,
+        13,
+        50614
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.6824420094490051,
+      "compression_ratio": 0.7419354838709677,
+      "no_speech_prob": 0.9950467348098755
     }
   ],
   "language": "hi"
