@@ -35,73 +35,65 @@ def index():
 
 @app.route("/ask", methods=["POST"])
 def ask():
-    
-    data = request.get_json()
-    question = data.get("question", "").strip()
+    try:
+        data = request.get_json()
+        question = data.get("question", "").strip()
 
-    if not question:
-        return jsonify({"error": "No question provided"}), 400
+        if not question:
+            return jsonify({"error": "Please ask a question!"}), 400
 
+        # Semantic search
+        results = collection.query(
+            query_texts=[question],
+            n_results=3
+        )
 
-    # Query ChromaDB with the student's question
-    # This is the RETRIEVAL step in RAG
-    results = collection.query(
-        query_texts=[question],
-        n_results=3
-    )
+        chunks    = results["documents"][0]
+        metadatas = results["metadatas"][0]
 
-    
-    chunks    = results["documents"][0]    
-    metadatas = results["metadatas"][0]    
+        context = ""
+        sources = []
 
+        for i, (chunk, meta) in enumerate(zip(chunks, metadatas)):
+            start = format_time(meta["start"])
+            end   = format_time(meta["end"])
+            title = meta["title"]
+            context += f"[Source {i+1}: {title} | {start} - {end}]\n{chunk}\n\n"
+            sources.append({"title": title, "start": start, "end": end})
 
-    context = ""
-    sources = []
+        system_prompt = """You are a helpful AI Teaching Assistant for a 
+        Data Science and Machine Learning course.
+        Answer the student's question using ONLY the provided context.
+        If the answer is not in the context, say: 
+        "I couldn't find that in the course material."
+        Always be clear, educational, and concise.
+        Mention the source timestamps so students know where 
+        to find it in the video."""
 
-    for i, (chunk, meta) in enumerate(zip(chunks, metadatas)):
-        start = format_time(meta["start"])
-        end   = format_time(meta["end"])
-        title = meta["title"]
+        user_prompt = f"""Context from course videos:
+        {context}
+        Student's Question: {question}
+        Please answer based only on the context above."""
 
-        context += f"[Source {i+1}: {title} | {start} - {end}]\n{chunk}\n\n"
-        sources.append({
-            "title": title,
-            "start": start,
-            "end":   end
-        })
+        response = groq_client.chat.completions.create(
+            model="llama-3.3-70b-versatile",
+            messages=[
+                {"role": "system", "content": system_prompt},
+                {"role": "user",   "content": user_prompt}
+            ],
+            temperature=0.3,
+            max_tokens=1024
+        )
 
+        answer = response.choices[0].message.content
+        return jsonify({"answer": answer, "sources": sources})
 
-    system_prompt = """You are a helpful AI Teaching Assistant for a Data Science and Machine Learning course.
-You will be given context extracted from video lectures.
-Answer the student's question using ONLY the provided context.
-If the answer is not in the context, say: "I couldn't find that in the course material."
-Always be clear, educational, and concise.
-Mention the source timestamps so students know where to find it in the video."""
+    # Handle specific errors with clear messages
+    except ValueError as e:
+        return jsonify({"error": f"Invalid input: {str(e)}"}), 400
 
-    user_prompt = f"""Context from course videos:
-{context}
-
-Student's Question: {question}
-
-Please answer based only on the context above."""
-
-
-    response = groq_client.chat.completions.create(
-        model="llama-3.3-70b-versatile",
-        messages=[
-            {"role": "system", "content": system_prompt},
-            {"role": "user",   "content": user_prompt}
-        ],
-        temperature=0.3,    # low temp = more factual, less creative
-        max_tokens=1024
-    )
-
-    answer = response.choices[0].message.content
-
-    return jsonify({
-        "answer":  answer,
-        "sources": sources   # timestamps shown as citations in UI
-    })
+    except Exception as e:
+        return jsonify({"error": f"Something went wrong: {str(e)}"}), 500
 
 
 if __name__ == "__main__":
