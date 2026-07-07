@@ -3,7 +3,16 @@ from groq import Groq
 import chromadb
 from dotenv import load_dotenv
 import os
+import shutil
 
+_cache_target = os.path.join(os.path.expanduser("~"), ".cache", "chroma", "onnx_models", "all-MiniLM-L6-v2", "onnx")
+_bundled_source = os.path.join(os.path.dirname(os.path.abspath(__file__)), "bundled_model", "onnx")
+
+if not os.path.exists(os.path.join(_cache_target, "model.onnx")) and os.path.exists(_bundled_source):
+    os.makedirs(_cache_target, exist_ok=True)
+    for fname in os.listdir(_bundled_source):
+        shutil.copy(os.path.join(_bundled_source, fname), os.path.join(_cache_target, fname))
+        
 load_dotenv()
 
 app = Flask(__name__)
